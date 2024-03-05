@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 <!--
 **NatalieWF/NatalieWF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div class="animated-container">
+    <p>Texto ou conteúdo com efeito de fade-in.</p>
+</div>
+
+.animated-container {
+    opacity: 0;
+    animation: fadeIn 2s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
