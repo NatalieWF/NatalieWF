@@ -15,20 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="animated-container">
-    <p>Texto ou conteúdo com efeito de fade-in.</p>
-</div>
+ <div class="animated-container">
+        <img src="your-image.png" alt="Sua Imagem">
+    </div>
 
-.animated-container {
-    opacity: 0;
-    animation: fadeIn 2s ease-in-out forwards;
+    <script src="script.js"></script>
+
+    }
 }
 
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
+.animated-container {
+    display: inline-block;
+    cursor: pointer;
+    transition: transform 0.5s ease-in-out;
+}
+
+.rotating {
+    transform: rotate(360deg);
+}
+
+let isRotating = false;
+
+function toggleRotation() {
+    const container = document.querySelector('.animated-container');
+    isRotating = !isRotating;
+
+    if (isRotating) {
+        container.classList.add('rotating');
+    } else {
+        container.classList.remove('rotating');
     }
 }
