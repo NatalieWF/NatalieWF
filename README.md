@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="logo1">
-      <img src="![logo-2582748_1280](https://github.com/NatalieWF/NatalieWF/assets/159834311/031d74dc-8e5c-40a5-8fbc-f8e7fd76958f)
+
+<img src="![logo-2582748_1280](https://github.com/NatalieWF/NatalieWF/assets/159834311/031d74dc-8e5c-40a5-8fbc-f8e7fd76958f)
 " alt="logo">
-    </div>
+  
