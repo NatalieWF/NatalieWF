@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- (https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
