@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://vercel-status.vercel.app/" width="100%" height="300" frameborder="0"></iframe>
+ <img src="[![OIP](https://github.com/NatalieWF/NatalieWF/assets/159834311/15af035a-a7cd-4135-8764-c6c69cde8245)](https://i.pinimg.com/originals/9a/e0/0f/9ae00fe40fa78aac4bf8dea4e8896189.gif)" alt="My Animated GIF" />
 
 <div class="icones">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -24,43 +24,9 @@ Here are some ideas to get you started:
 </div>
 
 
+
 <a href="https://www.linkedin.com/in/[your-linkedin-profile](https://br.linkedin.com/in/natalie-w-0647941b3)/" target="blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="40" height="40"/></a>
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="path/to/your/animation.json" 
-    background="transparent" 
-    speed="1" 
-    style="width: 500px; height: 500px;" 
-    loop
-    autoplay>
-</lottie-player>
 
-<style>
 
-name: Generate Datas
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: NatalieWF
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-</style>  
