@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<iframe src="https://vercel-status.vercel.app/" width="100%" height="300" frameborder="0"></iframe>
 
 <div class="icones">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -26,7 +26,17 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/[your-linkedin-profile](https://br.linkedin.com/in/natalie-w-0647941b3)/" target="blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="40" height="40"/></a>
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="path/to/your/animation.json" 
+    background="transparent" 
+    speed="1" 
+    style="width: 500px; height: 500px;" 
+    loop
+    autoplay>
+</lottie-player>
+
 <style>
+
 name: Generate Datas
 
 on:
@@ -52,5 +62,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-</style>
-  
+
+</style>  
