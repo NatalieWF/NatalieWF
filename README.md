@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 </p>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-profile](https://br.linkedin.com/in/natalie-w-0647941b3))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[https://br.linkedin.com/in/natalie-w-0647941b3](https://br.linkedin.com/in/natalie-w-0647941b3))
 
