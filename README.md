@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning: Html, Css, JavaScript, Java, Python.
+- 🌱 I’m currently learning: HTML, CSS, JavaScript, Python, Java.
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=gotham)
