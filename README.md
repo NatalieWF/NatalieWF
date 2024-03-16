@@ -1,4 +1,7 @@
 ### Hello World! 👋
+  Olá! Sou Natalie, uma entusiasta da tecnologia apaixonada por desenvolvimento de software. Com uma sólida formação em Análise e Desenvolvimento de Sistemas e experiência prática em projetos de desenvolvimento, estou constantemente buscando aprender e crescer no mundo da programação. Sou motivada pela resolução de problemas complexos e pela criação de soluções inovadoras que impactam positivamente a vida das pessoas. Estou sempre aberta a novos desafios e oportunidades de colaboração. Vamos criar algo incrível juntos!
+  
+-- Sinta-se à vontade para dar uma olhada em meus repositórios e não hesite em entrar em contato se tiver alguma dúvida ou quiser colaborar! --
 
 <!--
 **NatalieWF/NatalieWF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
