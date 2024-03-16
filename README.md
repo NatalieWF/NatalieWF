@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/natalie-w-0647941b3/)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](br.linkedin.com/in/natalie-w-0647941b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/natalie-w-0647941b3/)
 
-[LinkedIn](https://www.linkedin.com/in/<seu-usuário-do-linkedin>)(https://br.linkedin.com/in/natalie-w-0647941b3/)
+
 
 
