@@ -1,5 +1,5 @@
 ### Hello World! 👋
-  Olá! Sou Natalie, uma entusiasta da tecnologia, apaixonada por Desenvolvimento de Software. Com uma sólida formação em Análise e Desenvolvimento de Sistemas, estou constantemente buscando aprender e crescer no mundo da programação. Sou motivada pela resolução de problemas e pela criação de soluções inovadoras que impactam positivamente a vida das pessoas. Estou sempre aberta a novos desafios e oportunidades de colaboração.
+  Olá! Sou Natalie, uma entusiasta da tecnologia, apaixonada por Desenvolvimento de Software. Com uma sólida formação em Análise e Desenvolvimento de Sistemas, estou constantemente buscando aprender e crescer no mundo da programação. Sou motivada pela resolução de problemas e pela criação de soluções inovadoras que impactam positivamente a vida das pessoas.
   
 --⭐ Sinta-se à vontade para dar uma olhada em meus repositórios e não hesite em entrar em contato se tiver alguma dúvida ou quiser colaborar! ⭐--
 
