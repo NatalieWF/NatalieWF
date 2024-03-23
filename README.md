@@ -1,7 +1,7 @@
 ### Hello World! 👋
-  Olá! Sou Natalie, uma entusiasta da tecnologia apaixonada por desenvolvimento de software. Com uma sólida formação em Análise e Desenvolvimento de Sistemas, estou constantemente buscando aprender e crescer no mundo da programação. Sou motivada pela resolução de problemas complexos e pela criação de soluções inovadoras que impactam positivamente a vida das pessoas. Estou sempre aberta a novos desafios e oportunidades de colaboração. Vamos criar algo incrível juntos!
+  Olá! Sou Natalie, uma entusiasta da tecnologia, apaixonada por Desenvolvimento de Software. Com uma sólida formação em Análise e Desenvolvimento de Sistemas, estou constantemente buscando aprender e crescer no mundo da programação. Sou motivada pela resolução de problemas e pela criação de soluções inovadoras que impactam positivamente a vida das pessoas. Estou sempre aberta a novos desafios e oportunidades de colaboração.
   
--- Sinta-se à vontade para dar uma olhada em meus repositórios e não hesite em entrar em contato se tiver alguma dúvida ou quiser colaborar! --
+--⭐ Sinta-se à vontade para dar uma olhada em meus repositórios e não hesite em entrar em contato se tiver alguma dúvida ou quiser colaborar! ⭐--
 
 <!--
 **NatalieWF/NatalieWF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,8 +11,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: HTML, CSS, JavaScript, Python.
 
 <!-- GithubStats -->
+<!--
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=gotham)
-
+-->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=tokyonight)
 
 <div class="icones" text-align="center">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
