@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact)](https://github.com/NatalieWF/github-readme-stats)
+
 <div class="icones" text-align="center">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
