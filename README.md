@@ -1,8 +1,6 @@
 ## Hello World! 👋
 
  --⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de *tecnologia*. Sou estudante de Análise e Desenvolvimento de Sistemas, e gosto de esstudar programação por fora com *cursos*, *botcamps*, *vídeos no YouTube*. Estou iniciando minha carreira na de tecnologia.⭐--
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact)](https://github.com/NatalieWF/github-readme-stats)
   
 ### ⭐ Soft Skills          
   - Inteligência Emocional                      
@@ -19,7 +17,9 @@
   - CSS                                 
   - JavaScript                       
   - Python
-  - Pacote Office                         
+  - Pacote Office
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact)](https://github.com/NatalieWF/github-readme-stats)                
                          
 --⭐ Sinta-se à vontade para ver meus repositórios e não hesite em entrar em contato se tiver alguma dúvida! ⭐--
 
