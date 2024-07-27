@@ -1,7 +1,26 @@
-### Hello World! 👋
-  Olá! Sou Natalie, uma entusiasta da tecnologia, apaixonada por Desenvolvimento de Software. Com uma sólida formação em Análise e Desenvolvimento de Sistemas, estou constantemente buscando aprender e crescer no mundo da programação. Sou motivada pela resolução de problemas e pela criação de soluções inovadoras que impactam positivamente a vida das pessoas.
+## Hello World! 👋
+
+ --⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de *tecnologia*. Sou estudante de Análise e Desenvolvimento de Sistemas, e gosto de esstudar programação por fora com *cursos*, *botcamps*, *vídeos no YouTube*. Estou iniciando minha carreira na de tecnologia.⭐--
+
   
---⭐ Sinta-se à vontade para dar uma olhada em meus repositórios e não hesite em entrar em contato se tiver alguma dúvida ou quiser colaborar! ⭐--
+### Soft Skills          
+  - Inteligência Emocional                      
+  - Resiliência                                 
+  - Comunicação Assertiva                       
+  - Atitude Positiva                            
+  - Trabalho em Equipe                          
+  - Autoditada
+
+### Hard Skills   
+  - Git
+  - GitHub
+  - HTML                      
+  - CSS                                 
+  - JavaScript                       
+  - Python
+  - Pacote Office                         
+                         
+--⭐ Sinta-se à vontade para ver meus repositórios e não hesite em entrar em contato se tiver alguma dúvida! ⭐--
 
 <!--
 **NatalieWF/NatalieWF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +33,9 @@ Here are some ideas to get you started:
 <!--
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=gotham)
 -->
+<!--
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=tokyonight)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact)](https://github.com/NatalieWF/github-readme-stats)
 
@@ -34,7 +55,7 @@ Here are some ideas to get you started:
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/NatalieWF/NatalieWF/assets/159834311/441681ff-b5b4-4d5e-a1e6-50ebec4e134d" alt="Imagem">
+  <img align="center" src="https://github.com/NatalieWF/NatalieWF/assets/159834311/441681ff-b5b4-4d5e-a1e6-50ebec4e134d" alt="Imagem" width="300" height="200">
 </p>
 
 
