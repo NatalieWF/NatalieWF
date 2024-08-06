@@ -17,7 +17,8 @@
   - CSS                                 
   - JavaScript                       
   - Python
-  - Pacote Office
+  - C#
+  - Java 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact)](https://github.com/NatalieWF/github-readme-stats)                
                          
