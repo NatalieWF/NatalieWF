@@ -28,7 +28,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning: HTML, CSS, JavaScript, Python.
+- 🌱 Estou estudando: HTML, CSS, JavaScript, Python, C# e Java.
 
 <!-- GithubStats -->
 <!--
