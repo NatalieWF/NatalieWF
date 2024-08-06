@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
- --⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de *tecnologia*. Sou estudante de Análise e Desenvolvimento de Sistemas, e gosto de esstudar programação por fora com *cursos*, *botcamps*, *vídeos no YouTube*. Estou iniciando minha carreira na de tecnologia.⭐--
+ --⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de *tecnologia*. Sou estudante de Análise e Desenvolvimento de Sistemas, e gosto de esstudar programação por fora com *cursos*, *botcamps*, *vídeos no YouTube*. Estou iniciando minha carreira na área de tecnologia.⭐--
   
 ### ⭐ Soft Skills          
   - Inteligência Emocional                      
