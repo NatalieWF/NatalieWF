@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
- --⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de *tecnologia*. Sou estudante de Análise e Desenvolvimento de Sistemas, e gosto de esstudar programação por fora com *cursos*, *botcamps*, *vídeos no YouTube*. Estou iniciando minha carreira na área de tecnologia. ⭐--
+ --⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de *tecnologia*. Sou formada em Análise e Desenvolvimento de Sistemas, e gosto de estudar programação com *cursos*, *botcamps*, *vídeos no YouTube*. ⭐--
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact)](https://github.com/NatalieWF/github-readme-stats)                
