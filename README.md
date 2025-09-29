@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact)](https://github.com/NatalieWF/github-readme-stats) 
 
-<p align="center" width="50%">
+<p align="center" width="500">
   <img align="center" src="https://github.com/NatalieWF/NatalieWF/assets/159834311/441681ff-b5b4-4d5e-a1e6-50ebec4e134d" alt="Imagem" width="250" height="200">
 </p>
 
