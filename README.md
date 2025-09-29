@@ -3,13 +3,10 @@
  --⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de *tecnologia*. Sou formada em Análise e Desenvolvimento de Sistemas, e gosto de estudar programação com *cursos*, *botcamps*, *vídeos no YouTube*. ⭐--
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact)](https://github.com/NatalieWF/github-readme-stats) 
 
-
-<div width="300">
-  <img align="center" src="https://github.com/NatalieWF/NatalieWF/assets/159834311/441681ff-b5b4-4d5e-a1e6-50ebec4e134d" alt="Imagem">
-
-</div>
+<br>
                          
 --⭐ Sinta-se à vontade para ver meus repositórios e não hesite em entrar em contato se tiver alguma dúvida! ⭐--
 
@@ -18,7 +15,10 @@
 
 Here are some ideas to get you started:
 -->
-### 🌱 Estou estudando: Git, GitHub, HTML, CSS, JavaScript, Python, C# e Java, React...
+
+
+
+--🌱 Estou estudando: Git, GitHub, HTML, CSS, JavaScript, Python, C# e Java, React... 🌱--
 
 <!-- GithubStats -->
 <!--
@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact)](https://github.com/NatalieWF/github-readme-stats)
 -->
+
+
+
 <div class="icones" text-align="center">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
@@ -50,7 +53,7 @@ Here are some ideas to get you started:
           
 </div>
 
---
+<br>
 <!--
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
@@ -59,8 +62,10 @@ Here are some ideas to get you started:
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/NatalieWF/NatalieWF/assets/159834311/441681ff-b5b4-4d5e-a1e6-50ebec4e134d" alt="Imagem" width="250" height="200">
-</p>
+  <img align="center" src="https://github.com/NatalieWF/NatalieWF/assets/159834311/441681ff-b5b4-4d5e-a1e6-50ebec4e134d" alt="Imagem" width="300" height="150">
+</p>  
+
+
 
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/natalie-w-0647941b3/) -->
