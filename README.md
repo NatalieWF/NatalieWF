@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/NatalieWF/NatalieWF/assets/159834311/441681ff-b5b4-4d5e-a1e6-50ebec4e134d" alt="Imagem" width="300" height="200">
+  <img align="center" src="https://github.com/NatalieWF/NatalieWF/assets/159834311/441681ff-b5b4-4d5e-a1e6-50ebec4e134d" alt="Imagem" width="150" height="200">
 </p>
 
 
