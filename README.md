@@ -8,7 +8,7 @@
 
 <br>
                          
---⭐ Sinta-se à vontade para ver meus repositórios e não hesite em entrar em contato se tiver alguma dúvida! ⭐--
+
 
 <!--
 **NatalieWF/NatalieWF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -77,6 +77,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 -->
+--⭐ Sinta-se à vontade para ver meus repositórios e não hesite em entrar em contato se tiver alguma dúvida! ⭐--
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalieweles/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliedevw@gmail.com)
