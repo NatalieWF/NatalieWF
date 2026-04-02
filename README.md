@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact)](https://github.com/NatalieWF/github-readme-stats)
 -->
 
-# Tecnologias que possuo conhecimento e prática 
+## Tecnologias que possuo conhecimento e prática 
 
 <div class="icones" text-align="center">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
