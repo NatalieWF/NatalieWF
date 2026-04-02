@@ -1,6 +1,8 @@
 ## Hello World! 👋
 
- ![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
 
 
 --⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de *tecnologia*. Sou formada em Análise e Desenvolvimento de Sistemas, e gosto de estudar programação com cursos, botcamps, vídeos no YouTube. ⭐--
