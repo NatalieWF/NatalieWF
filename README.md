@@ -14,9 +14,9 @@
 
 Here are some ideas to get you started:
 -->
-
+<!--
 --🌱 Estou estudando: Git, GitHub, HTML, CSS, JavaScript, Python, C# e Java, React... 🌱--
-
+-->
 <!-- GithubStats -->
 <!--
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=gotham)
