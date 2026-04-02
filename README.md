@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img align="center" src="https://github.com/NatalieWF/NatalieWF/assets/159834311/441681ff-b5b4-4d5e-a1e6-50ebec4e134d" alt="Imagem" width="300" height="150">
 </p>
-
+### Contato
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/natalie-w-0647941b3/) -->
 
 
