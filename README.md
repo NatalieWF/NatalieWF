@@ -3,6 +3,9 @@
  --⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de *tecnologia*. Sou formada em Análise e Desenvolvimento de Sistemas, e gosto de estudar programação com cursos, botcamps, vídeos no YouTube. ⭐--
 
 
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact)](https://github.com/NatalieWF/github-readme-stats) 
 
