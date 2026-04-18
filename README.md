@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8F33DF&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Seja+bem-vindo(a)!;Sou+uma+Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia+e+Caf%C3%A9!" alt="Typing SVG" />
+</p>
+
+<!--
 ## Hello World! 👋
---⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de tecnologia. Sou formada em Análise e Desenvolvimento de Sistemas, e gosto de estudar programação com cursos, botcamps, vídeos no YouTube. ⭐--
+--⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de tecnologia. Sou formada em Análise e Desenvolvimento de Sistemas, e gosto de estudar programação com cursos, botcamps, vídeos no YouTube. ⭐-- 
+-->
 <!--
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=gotham)
 
@@ -26,8 +32,39 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact)](https://github.com/NatalieWF/github-readme-stats)
 -->
-Tecnologias que possuo conhecimento / prática 
 
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p> -->
+
+### Profissional em Análise e Desenvolvimento de Sistemas 
+
+| | | | | | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moodle/moodle-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/> |
+
+### Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicações completas.
+
+<p align="left">
+   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+## 📌 Projetos em Destaque
+
+| Projeto | Descrição |
+|---------|-----------|
+| [**Meu Projeto 1**](link) | API REST com .NET e MongoDB |
+| [**Meu Projeto 2**](link) | Dashboard interativo com React |
+| [**Meu Projeto 3**](link) | Automação com Python |
+
+### Sempre buscando evoluir.
+
+<!--
 <div class="icones" text-align="center">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
@@ -43,13 +80,11 @@ Tecnologias que possuo conhecimento / prática
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moodle/moodle-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
-<!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
--->
-</div>
+</div> -->
 
-<br>
+
 <!--
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
@@ -57,7 +92,7 @@ Tecnologias que possuo conhecimento / prática
 -->
 
 <!-- GIF -->
-<p align="left">
+<p>
   <img align="center" src="https://github.com/NatalieWF/NatalieWF/assets/159834311/441681ff-b5b4-4d5e-a1e6-50ebec4e134d" alt="Imagem" width="300" height="150">
 </p>
 
@@ -76,8 +111,8 @@ Tecnologias que possuo conhecimento / prática
 </a>
 -->
 
-### Contato 
---⭐ Sinta-se à vontade para ver meus repositórios e não hesite em entrar em contato se tiver alguma dúvida! ⭐--
+## Contato 
+### Sinta-se à vontade para ver meus repositórios e não hesite em entrar em contato se tiver alguma dúvida!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalieweles/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliedevw@gmail.com)
