@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 | Projeto | Descrição |
 |---------|-----------|
 | [**Meu Projeto 1**](https://github.com/NatalieWF/dio-lab-open-source.git) | Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. |
-| [**Meu Projeto 2**](link) | Dashboard interativo com React |
+| [**Meu Projeto 2**](https://github.com/NatalieWF/Projetos-CSharp.git) | Projetos acadêmicos utilizando C# (CSharp) |
 | [**Meu Projeto 3**](link) | Automação com Python |
 
 ### Sempre buscando evoluir.
