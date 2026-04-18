@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 | Projeto | Descrição |
 |---------|-----------|
-| [**Meu Projeto 1**]([link](https://github.com/NatalieWF/dio-lab-open-source.git)) | Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. |
+| [**Meu Projeto 1**](https://github.com/NatalieWF/dio-lab-open-source.git) | Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. |
 | [**Meu Projeto 2**](link) | Dashboard interativo com React |
 | [**Meu Projeto 3**](link) | Automação com Python |
 
