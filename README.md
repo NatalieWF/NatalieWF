@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 | Projeto | Descrição |
 |---------|-----------|
-| [**Meu Projeto 1**](link) | API REST com .NET e MongoDB |
+| [**Meu Projeto 1**](link) | Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. |
 | [**Meu Projeto 2**](link) | Dashboard interativo com React |
 | [**Meu Projeto 3**](link) | Automação com Python |
 
