@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 | Projeto | Descrição |
 |---------|-----------|
 | [**Meu Projeto 1**](https://github.com/NatalieWF/dio-lab-open-source.git) | Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. |
-| [**Meu Projeto 2**](https://github.com/NatalieWF/Projetos-CSharp.git) | Utilizando CSharp. |
+| [**Meu Projeto 2**](https://github.com/NatalieWF/Full-Stack.git) | Full Stack |
 | [**Meu Projeto 3**](https://github.com/NatalieWF/Projetos-CSharp.git) | Utilizando CSharp. |
 | [**Meu Projeto 4**](https://github.com/NatalieWF/An-lise-lista-de-exerc-cios.git) | Utilizando Python. |
 | [**Meu Projeto 5**](https://github.com/NatalieWF/Projeto-SQL.git) | Utilizando SQL. |
