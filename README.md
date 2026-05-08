@@ -135,7 +135,7 @@ Here are some ideas to get you started:
   ![vite](https://img.shields.io/badge/vite-339933?style=flat-square&logo=vite&logoColor=white)
   ![APIREST](https://img.shields.io/badge/APIREST-339933?style=flat-square&logo=apirest&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![Express](https://img.shields.io/badge/Espress-339933?style=flat-square&logo=espr ss&logoColor=white)
+  ![Express](https://img.shields.io/badge/Espress-339933?style=flat-square&logo=espress&logoColor=white)
   ![MongoDBAtlas](https://img.shields.io/badge/MongoDBAtlas-339933?style=flat-square&logo=mongodbatlas&logoColor=white)
   ![PrismaORM](https://img.shields.io/badge/PrismaORM-339933?style=flat-square&logo=prismaorm&logoColor=white)
 </details>
