@@ -92,15 +92,19 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 ### 📂 Meus Projetos (Clique para expandir)
 
 <details>
-#####<summary>🚀 <b>Projeto 1 - Open Source na DIO</b></summary>
+<summary>🚀 #####<b>Projeto 1 - Open Source na DIO</b></summary>
 
 > [!TIP]
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
 • Contribuiu em um projeto Open Source seguindo o fluxo completo de colaboração.
+
 • Realizou um fork do repositório, que foi clonado localmente para desenvolvimento.
+
 • Criou uma nova branch para isolar suas modificações, onde desenvolveu e adicionou um README personalizado, incluindo um perfil (profile README). 
+
 • Após o desenvolvimento, adicionou as alterações à staging area, criou um commit descritivo e enviou as mudanças para seu repositório remoto.
+
 • Finalmente, abriu um Pull Request para propor a integração de suas contribuições ao projeto original.
 
 **Tecnologias utilizadas:**
