@@ -151,12 +151,62 @@ Here are some ideas to get you started:
 • Estrutura Profissional: Utilização de classes parciais (partial class) para separação de design e lógica de backend.
 
 • Ambiente: Desenvolvimento e testes realizados em Máquinas Virtuais (VM) para simulação de infraestrutura.
-
+<!--
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
    <img src="" alt="Preview do Projeto 2" width="500px" />
     </a>
   </p>
+-->
+[🔗 Ver código fonte completo](https://github.com/NatalieWF/Projetos-CSharp.git)
+
+**Tecnologias utilizadas:**
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-2173BB?style=flat-square&logo=virtualbox&logoColor=white)
+</details>
+
+<details>
+  <summary>🗃️ <b>Projeto 4 - Criação de aplicações clientes para Windows</b></summary>
+  <br />
+
+> [!TIP]
+> Criação de aplicações clientes para Windows utilizando o framework .NET e a biblioteca WinForms.
+
+• Estrutura Profissional: Utilização de classes parciais (partial class) para separação de design e lógica de backend.
+
+• Ambiente: Desenvolvimento e testes realizados em Máquinas Virtuais (VM) para simulação de infraestrutura.
+<!--
+<p align="center">
+    <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
+   <img src="" alt="Preview do Projeto 2" width="500px" />
+    </a>
+  </p>
+-->
+[🔗 Ver código fonte completo](https://github.com/NatalieWF/Projetos-CSharp.git)
+
+**Tecnologias utilizadas:**
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-2173BB?style=flat-square&logo=virtualbox&logoColor=white)
+</details>
+
+<details>
+  <summary>🗃️ <b>Projeto 5 - Criação de aplicações clientes para Windows</b></summary>
+  <br />
+
+> [!TIP]
+> Criação de aplicações clientes para Windows utilizando o framework .NET e a biblioteca WinForms.
+
+• Estrutura Profissional: Utilização de classes parciais (partial class) para separação de design e lógica de backend.
+
+• Ambiente: Desenvolvimento e testes realizados em Máquinas Virtuais (VM) para simulação de infraestrutura.
+<!--
+<p align="center">
+    <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
+   <img src="" alt="Preview do Projeto 2" width="500px" />
+    </a>
+  </p>
+-->
+[🔗 Ver código fonte completo](https://github.com/NatalieWF/Projetos-CSharp.git)
 
 **Tecnologias utilizadas:**
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
