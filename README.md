@@ -104,6 +104,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed">
 <img src="https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed" alt="Preview do Projeto" width="600">
 
+![Texto Alternativo](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed)
+
 
 <img src="![](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed" alt="Preview do Projeto 1" width="500px"/>
     </a>
