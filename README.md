@@ -97,10 +97,6 @@ Here are some ideas to get you started:
 > [!TIP]
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
-<p align="center">
-  <img src="https://photos.app.goo.gl/YRmrBaMg6QJC3n6P9" width="500">
-</p>
-
   <p align="center">
     <a href="https://github.com/NatalieWF/Full-Stack.git">
    <img src="![Screenshot_20260508-022751.GitHub~2.png](https://github.com/user-attachments/assets/6ff0b209-fe27-4984-9315-fe76b70b143e" alt="Preview do Projeto 2" width="500px" />
