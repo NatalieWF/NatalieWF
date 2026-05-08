@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8F33DF&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Seja+bem-vindo(a)!;Sou+uma+Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia+e+Caf%C3%A9!" alt="Typing SVG" />
 </p>
 
-
-hhhhhhhhhhhhhhhhh
 <!--
 ## Hello World! 👋
 --⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de tecnologia. Sou formada em Análise e Desenvolvimento de Sistemas, e gosto de estudar programação com cursos, botcamps, vídeos no YouTube. ⭐-- 
@@ -43,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p> -->
 
-#### Profissional em Análise e Desenvolvimento de Sistemas 
+Profissional em Análise e Desenvolvimento de Sistemas 
 <!--
 | | | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
@@ -277,7 +275,7 @@ Here are some ideas to get you started:
 -->
 
 ### Contato 
-#### Sinta-se à vontade para ver meus repositórios e não hesite em entrar em contato se tiver alguma dúvida!
+Sinta-se à vontade para ver meus repositórios e não hesite em entrar em contato se tiver alguma dúvida!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalieweles/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliedevw@gmail.com)
