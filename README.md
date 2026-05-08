@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
   <summary>🚀 <b>Meu Projeto 1 - Open Source na DIO</b></summary>
   <br />
-  > [!TIP]
+  
   > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
   
   <!-- Prévia do Projeto (Imagem que leva ao repositório) -->
