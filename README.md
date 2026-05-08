@@ -94,33 +94,11 @@ Here are some ideas to get you started:
 <details>
 <summary>🚀 <b>Meu Projeto 1 - Open Source na DIO</b></summary>
 
-  <br />
-  
-  > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
-  
-  <!-- Prévia do Projeto (Imagem que leva ao repositório) -->
-
-  <p align="center">
-
-<a href="https://github.com/NatalieWF/dio-lab-open-source.git">
-<img src="https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed" width="500">
-    </a>
-  </p>
-
-<Br>
-
-### 📂 Meus Projetos (Clique para expandir)
-
-<details>
-<summary>🚀 <b>Meu Projeto 1 - Open Source na DIO</b></summary>
-
 > [!TIP]
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
 <p align="center">
-  <a href="https://github.com/SeuUsuario/dio-lab-open-source">
-    <img src="https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed" width="500">
-  </a>
+  <img src="https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed" width="500">
 </p>
 
 **Tecnologias utilizadas:**
@@ -129,15 +107,6 @@ Here are some ideas to get you started:
 
 [🔗 Ver código fonte completo](https://github.com/SeuUsuario/dio-lab-open-source)
 
-</details>
-
-<Br>
-
-  **Tecnologias utilizadas:**
-  ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=git&logoColor=white)
-  ![github](https://img.shields.io/badge/github-4479A1?style=flat-square&logo=github&logoColor=white)
-
-  [🔗 Ver código fonte completo](https://github.com/NatalieWF/dio-lab-open-source.git)
 </details>
 
 
