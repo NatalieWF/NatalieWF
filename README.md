@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed" width="500">
+  <img src="https://github.com/users/NatalieWF/achievements/quickdraw" width="500">
 </p>
 
 **Tecnologias utilizadas:**
