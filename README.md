@@ -101,6 +101,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/NatalieWF?tab=achievements&achievement=quickdraw" width="500">
 </p>
 
+
+
 **Tecnologias utilizadas:**
 ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-4479A1?style=flat-square&logo=github&logoColor=white)
