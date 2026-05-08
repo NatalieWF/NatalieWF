@@ -94,7 +94,6 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 
 <details>
 <summary><b>📂 Meus Projetos</b></summary>
-### 📂 Meus Projetos (Clique para expandir)
 
 <details>
 <summary><b>Projeto 1</b> - Open Source na DIO</summary>
@@ -212,7 +211,7 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square&logo=sql&logoColor=white)
 </details>
 
-<details>
+</details>
 <!--
 ### 📌 Projetos em Destaque
 
