@@ -94,7 +94,7 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 ### 📂 Meus Projetos (Clique para expandir)
 
 <details>
-<summary><b>Projeto 1</b> - Open Source na DIO</summary>
+<summary><b>Projeto 1</b> - <h6>Open Source na DIO</h6></summary>
 
 > [!TIP]
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
