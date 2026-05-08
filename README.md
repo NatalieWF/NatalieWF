@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-4479A1?style=flat-square&logo=github&logoColor=white)
 
-[🔗 Ver código fonte completo](https://github.com/NatalieWF/dio-lab-open-source.git)
+[🔗 Repositório](https://github.com/NatalieWF/dio-lab-open-source.git)
 
 </details>
 
@@ -145,6 +145,8 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
+[🔗 Repositório](https://github.com/NatalieWF/Full-Stack.git)
+
 </details>
 
 <details>
@@ -162,7 +164,7 @@ Here are some ideas to get you started:
     </a>
   </p>
 -->
-[🔗 Ver código fonte completo](https://github.com/NatalieWF/Projetos-CSharp.git)
+[🔗 Repositório](https://github.com/NatalieWF/Projetos-CSharp.git)
 
 **Tecnologias utilizadas:**
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -184,7 +186,7 @@ Here are some ideas to get you started:
     </a>
   </p>
 -->
-[🔗 Ver código fonte completo](https://github.com/NatalieWF/An-lise-lista-de-exerc-cios.git)
+[🔗 Repositório](https://github.com/NatalieWF/An-lise-lista-de-exerc-cios.git)
 
 **Tecnologias utilizadas:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -206,7 +208,7 @@ Here are some ideas to get you started:
     </a>
   </p>
 -->
-[🔗 Ver código fonte completo](https://github.com/NatalieWF/Projeto-SQL.git)
+[🔗 Repositório](https://github.com/NatalieWF/Projeto-SQL.git)
 
 **Tecnologias utilizadas:**
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square&logo=sql&logoColor=white)
