@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
   <p align="center">
     <a href="https://github.com/NatalieWF/Full-Stack.git">
-      <img src="URL_DA_SUA_IMAGEM_OU_GIF_DE_PREVIA" alt="Preview do Projeto 2" width="500px" />
+      <img src="" alt="Preview do Projeto 2" width="500px" />
     </a>
   </p>
 
@@ -127,6 +127,8 @@ Here are some ideas to get you started:
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 </details>
+
+
 
 <!--
 ### 📌 Projetos em Destaque
