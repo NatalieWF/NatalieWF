@@ -112,6 +112,22 @@ Here are some ideas to get you started:
   [🔗 Ver código fonte completo](https://github.com/NatalieWF/dio-lab-open-source.git)
 </details>
 
+
+<details>
+  <summary>💻 <b>Meu Projeto 2 - Aplicação Full Stack</b></summary>
+  <br />
+
+  <p align="center">
+    <a href="https://github.com/NatalieWF/Full-Stack.git">
+      <img src="URL_DA_SUA_IMAGEM_OU_GIF_DE_PREVIA" alt="Preview do Projeto 2" width="500px" />
+    </a>
+  </p>
+
+  **Tecnologias utilizadas:**
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+</details>
+
 <!--
 ### 📌 Projetos em Destaque
 
