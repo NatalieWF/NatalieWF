@@ -146,7 +146,7 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 </details>
 
 <details>
-  <summary>🗃️ Projeto 3 - Criação de aplicações clientes para Windows</summary>
+  <summary><b>Projeto 3</b> - Criação de aplicações clientes para Windows</summary>
   
 
 > [!TIP]
@@ -170,7 +170,7 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 </details>
 
 <details>
-  <summary>🐍 Projeto 4 - Automação de Sistemas e Lógica com Python</summary>
+  <summary><b>Projeto 4</b> - Automação de Sistemas e Lógica com Python</summary>
   
 
 > [!TIP]
@@ -194,7 +194,7 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 </details>
 
 <details>
-  <summary>💾 Projeto 5 - Modelagem de Dados e Relatórios SQL</summary>
+  <summary><b>Projeto 5</b> - Modelagem de Dados e Relatórios SQL</summary>
   
 
 > [!TIP]
