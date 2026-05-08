@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 ### 📂 Meus Projetos (Clique para expandir)
 
 <details>
-<summary>🚀 <b>Meu Projeto 1 - Open Source na DIO</b></summary>
+<summary>🚀 <b>Projeto 1 - Open Source na DIO</b></summary>
 
 > [!TIP]
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>💻 <b>Meu Projeto 2 - Aplicação Full Stack</b></summary>
+  <summary>💻 <b>Projeto 2 - Aplicação Full Stack</b></summary>
   <br />
 
 > [!TIP]
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>💻 <b>Meu Projeto 2 - Aplicação Full Stack</b></summary>
+  <summary>💻 <b>Projeto 3 - Aplicação Full Stack</b></summary>
   <br />
 
 > [!TIP]
@@ -155,7 +155,7 @@ Here are some ideas to get you started:
   </p>
 
 **Tecnologias utilizadas:**
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
 </details>
 
 <!--
