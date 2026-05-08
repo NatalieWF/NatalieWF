@@ -98,7 +98,8 @@ Here are some ideas to get you started:
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
 <p align="center">
-  <img src="https://github.com/NatalieWF?tab=achievements&achievement=quickdraw" width="500">
+  <img src="![NatalieWF.png.pdf](https://github.com/user-attachments/files/27507225/NatalieWF.png.pdf)
+" width="500">
 </p>
 
 
