@@ -101,13 +101,11 @@ Here are some ideas to get you started:
   <!-- Prévia do Projeto (Imagem que leva ao repositório) -->
   <p align="center">
     <a href="https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed">
-      <img src="![quickdraw-default-39c6aec8ff89.png](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed)" alt="Preview do Projeto 1" width="500px" />
+      <img src="![quickdraw-default-39c6aec8ff89.png]" alt="Preview do Projeto 1" width="500px" />
     </a>
   </p>
+
 ![Preview do Projeto](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed)
-
-
-![quickdraw-default-39c6aec8ff89.png](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed)
 
   **Tecnologias utilizadas:**
   ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=dotnet&logoColor=white)
