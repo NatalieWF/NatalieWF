@@ -121,11 +121,11 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
   
 > Desenvolvimento de uma aplicação completa para cadastro e gerenciamento de usuários. O projeto demonstra a integração entre uma interface moderna e um servidor de alta performance conectado à nuvem.
 
-• Front-end: Interface dinâmica desenvolvida com React e Vite.
+> • Front-end: Interface dinâmica desenvolvida com React e Vite.
 
-• Back-end: API REST construída com Node.js e Express, gerenciando métodos CRUD (GET, POST, PUT, DELETE).
+> • Back-end: API REST construída com Node.js e Express, gerenciando métodos CRUD (GET, POST, PUT, DELETE).
 
-• Banco de Dados: Persistência em nuvem utilizando MongoDB Atlas e Prisma ORM para mapeamento de dados.
+> • Banco de Dados: Persistência em nuvem utilizando MongoDB Atlas e Prisma ORM para mapeamento de dados.
 
   <p align="center">
     <a href="https://github.com/NatalieWF/Full-Stack.git">
@@ -149,9 +149,9 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
   
 > Criação de aplicações clientes para Windows utilizando o framework .NET e a biblioteca WinForms.
 
-• Estrutura Profissional: Utilização de classes parciais (partial class) para separação de design e lógica de backend.
+> • Estrutura Profissional: Utilização de classes parciais (partial class) para separação de design e lógica de backend.
 
-• Ambiente: Desenvolvimento e testes realizados em Máquinas Virtuais (VM) para simulação de infraestrutura.
+> • Ambiente: Desenvolvimento e testes realizados em Máquinas Virtuais (VM) para simulação de infraestrutura.
 <!--
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
@@ -171,9 +171,9 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
   
 > Desenvolvimento de scripts focados em resolver problemas reais de logística e automação, aplicando Programação Orientada a Objetos (POO).
 
-• Lógica de Negócio: Criação de algoritmos para cálculos de insumos e gestão de eventos (Buffet Festa Perfeita).
+> • Lógica de Negócio: Criação de algoritmos para cálculos de insumos e gestão de eventos (Buffet Festa Perfeita).
 
-• Interface Gráfica: Construção de janelas e elementos de interação visual para o usuário final.
+> • Interface Gráfica: Construção de janelas e elementos de interação visual para o usuário final.
 <!--
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
@@ -193,9 +193,9 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
   
 > Estruturação de bancos de dados relacionais e criação de consultas avançadas para análise de informações.
 
-• Modelagem: Criação de tabelas com chaves primárias e estrangeiras (Foreign Keys) para garantir integridade referencial.
+> • Modelagem: Criação de tabelas com chaves primárias e estrangeiras (Foreign Keys) para garantir integridade referencial.
 
-• Manipulação: Uso extensivo de comandos JOIN para consolidar dados de múltiplas fontes em relatórios únicos.
+> • Manipulação: Uso extensivo de comandos JOIN para consolidar dados de múltiplas fontes em relatórios únicos.
 <!--
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
