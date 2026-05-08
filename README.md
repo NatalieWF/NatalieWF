@@ -41,7 +41,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p> -->
 
-Profissional em Análise e Desenvolvimento de Sistemas 
+• Profissional em Análise e Desenvolvimento de Sistemas 
+
+- Sempre buscando evoluir
 <!--
 | | | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
