@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 -->
 
 
-### 🛠️ Tecnologias e Ferramentas 
+### Tecnologias e Ferramentas 
 
-#### 💻 Linguagens e Base
+#### Linguagens e Base
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -60,13 +60,13 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🚀 Frameworks e Bibliotecas
+#### Frameworks e Bibliotecas
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### 🧰 Infraestrutura e Ferramentas
+#### Infraestrutura e Ferramentas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>💻 <b>Projeto 3 - Criação de aplicações clientes para Windows</b></summary>
+  <summary>🗃️ <b>Projeto 3 - Criação de aplicações clientes para Windows</b></summary>
   <br />
 
 > [!TIP]
