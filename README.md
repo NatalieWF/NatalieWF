@@ -89,6 +89,29 @@ Here are some ideas to get you started:
 </p>
 -->
 
+### 📂 Meus Projetos (Clique para expandir)
+
+<details>
+  <summary>🚀 <b>Meu Projeto 1 - Open Source na DIO</b></summary>
+  <br />
+  
+  > [!TIP]
+  > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
+  
+  <!-- Prévia do Projeto (Imagem que leva ao repositório) -->
+  <p align="center">
+    <a href="LINK_DO_SEU_REPOSITORIO">
+      <img src="URL_DA_SUA_IMAGEM_OU_GIF_DE_PREVIA" alt="Preview do Projeto 1" width="500px" />
+    </a>
+  </p>
+
+  **Tecnologias utilizadas:**
+  ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![github](https://img.shields.io/badge/github-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+  [🔗 Ver código fonte completo](https://github.com/NatalieWF/dio-lab-open-source.git)
+</details>
+
 ### 📌 Projetos em Destaque
 
 | Projeto | Descrição |
