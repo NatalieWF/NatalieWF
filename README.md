@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8F33DF&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Seja+bem-vindo(a)!;Sou+Analista+e+Desenvolvedora;Apaixonada+por+Tecnologia+e+Caf%C3%A9!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8F33DF&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Seja+bem-vindo(a)!;Sou+Analista+e+Desenvolvedora;Sempre+buscando+evoluir!" alt="Typing SVG" />
 </p>
 
 <!--
@@ -41,9 +41,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p> -->
 
-##### • Profissional em Análise e Desenvolvimento de Sistemas 
-
-##### • Sempre buscando evoluir
 <!--
 | | | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
