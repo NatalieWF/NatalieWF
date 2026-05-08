@@ -77,12 +77,11 @@ Here are some ideas to get you started:
 
 ### 📊 Estatísticas
 <div align="center">
-  <!-- Substitua SEU_USUARIO pelo seu nome de usuário do GitHub -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
-## Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicações completas.
+# Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicações completas.
 
 <p align="left">
    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
