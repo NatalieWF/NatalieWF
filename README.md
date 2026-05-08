@@ -94,6 +94,7 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaÃ§Ã
 
 <details>
 <summary><b>ðŸ“‚ Meus Projetos</b></summary>
+<br>
 
 <details>
 <summary><b>Projeto 1</b> - Open Source na DIO</summary>
@@ -224,7 +225,6 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaÃ§Ã
 | [**Meu Projeto 5**](https://github.com/NatalieWF/Projeto-SQL.git) | Utilizando SQL. |
 -->
 
-Sempre buscando evoluir.
 
 <!--
 <div class="icones" text-align="center">
