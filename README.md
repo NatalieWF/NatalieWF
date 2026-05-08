@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2cb51c4392e672c3a4ff7e14f453c0fa3e2d5d101831a8e44706efff8dee2019/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323432392f504e472f3531322f6769746875625f6c6f676f5f69636f6e5f3134373238352e706e67)" width="500">
+  <img src="(![Screenshot_20260508-022751.GitHub~2.png](https://github.com/user-attachments/assets/6ff0b209-fe27-4984-9315-fe76b70b143e)" width="500">
 </p>
 
 **Tecnologias utilizadas:**
