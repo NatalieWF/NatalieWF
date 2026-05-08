@@ -98,15 +98,15 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
-• Contribuiu em um projeto Open Source seguindo o fluxo completo de colaboração.
+> • Contribuiu em um projeto Open Source seguindo o fluxo completo de colaboração.
 
-• Realizou um fork do repositório, que foi clonado localmente para desenvolvimento.
+> • Realizou um fork do repositório, que foi clonado localmente para desenvolvimento.
 
-• Criou uma nova branch para isolar suas modificações, onde desenvolveu e adicionou um README personalizado, incluindo um perfil (profile README). 
+> • Criou uma nova branch para isolar suas modificações, onde desenvolveu e adicionou um README personalizado, incluindo um perfil (profile README). 
 
-• Após o desenvolvimento, adicionou as alterações à staging area, criou um commit descritivo e enviou as mudanças para seu repositório remoto.
+> • Após o desenvolvimento, adicionou as alterações à staging area, criou um commit descritivo e enviou as mudanças para seu repositório remoto.
 
-• Finalmente, abriu um Pull Request para propor a integração de suas contribuições ao projeto original.
+> • Finalmente, abriu um Pull Request para propor a integração de suas contribuições ao projeto original.
 
 **Tecnologias utilizadas:**
 ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=git&logoColor=white)
