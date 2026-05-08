@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 📌 Projetos em Destaque
-<span style="color:red">
+
 | Projeto | Descrição |
 |---------|-----------|
 | [**Meu Projeto 1**](https://github.com/NatalieWF/dio-lab-open-source.git) | Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. |
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 | [**Meu Projeto 3**](https://github.com/NatalieWF/Projetos-CSharp.git) | Utilizando CSharp. |
 | [**Meu Projeto 4**](https://github.com/NatalieWF/An-lise-lista-de-exerc-cios.git) | Utilizando Python. |
 | [**Meu Projeto 5**](https://github.com/NatalieWF/Projeto-SQL.git) | Utilizando SQL. |
-</span>
+
 
 
 ### Sempre buscando evoluir.
