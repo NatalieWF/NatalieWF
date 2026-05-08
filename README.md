@@ -155,15 +155,8 @@ Here are some ideas to get you started:
   </p>
 
 **Tecnologias utilizadas:**
-![CSharp](https://img.shields.io/badge/CSarp-61DAFB?style=flat-square&logo=csharp&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-005571?style=flat-square&logo=json-web-tokens&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white
+</details>
 
 <!--
 ### 📌 Projetos em Destaque
