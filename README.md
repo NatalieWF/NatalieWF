@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
 <p align="center">
-  <img src="![Screenshot_20260508-022751.GitHub~2.png](https://github.com/user-attachments/assets/6ff0b209-fe27-4984-9315-fe76b70b143e" width="500">
+  <img src="https://github.com/user-attachments/assets/6ff0b209-fe27-4984-9315-fe76b70b143e" width="500">
 </p>
 
   <p align="center">
