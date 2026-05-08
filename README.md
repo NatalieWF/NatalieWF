@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ##### • Profissional em Análise e Desenvolvimento de Sistemas 
 
-• Sempre buscando evoluir
+##### • Sempre buscando evoluir
 <!--
 | | | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
