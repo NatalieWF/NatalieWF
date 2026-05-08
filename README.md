@@ -93,6 +93,7 @@ Here are some ideas to get you started:
 
 <details>
 <summary>🚀 <b>Meu Projeto 1 - Open Source na DIO</b></summary>
+
   <br />
   
   > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
@@ -102,6 +103,8 @@ Here are some ideas to get you started:
   <p align="center">
 
 <a href="https://github.com/NatalieWF/dio-lab-open-source.git">
+<img src="https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed" width="500">
+
 
 <img src="" alt="Preview do Projeto 1" width="500px"/>
     </a>
