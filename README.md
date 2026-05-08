@@ -94,9 +94,8 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 ### 📂 Meus Projetos (Clique para expandir)
 
 <details>
-<summary><b>Projeto 1</b> - <h4>Open Source na DIO</h4></summary>
+<summary><b>Projeto 1</b> - Open Source na DIO</summary>
 
-> [!TIP]
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
 • Contribuiu em um projeto Open Source seguindo o fluxo completo de colaboração.
@@ -120,8 +119,6 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 <details>
   <summary><b>Projeto 2</b> - Aplicação Full Stack</summary>
   
-
-> [!TIP]
 > Desenvolvimento de uma aplicação completa para cadastro e gerenciamento de usuários. O projeto demonstra a integração entre uma interface moderna e um servidor de alta performance conectado à nuvem.
 
 • Front-end: Interface dinâmica desenvolvida com React e Vite.
@@ -150,8 +147,6 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 <details>
   <summary><b>Projeto 3</b> - Criação de aplicações clientes para Windows</summary>
   
-
-> [!TIP]
 > Criação de aplicações clientes para Windows utilizando o framework .NET e a biblioteca WinForms.
 
 • Estrutura Profissional: Utilização de classes parciais (partial class) para separação de design e lógica de backend.
@@ -174,8 +169,6 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 <details>
   <summary><b>Projeto 4</b> - Automação de Sistemas e Lógica com Python</summary>
   
-
-> [!TIP]
 > Desenvolvimento de scripts focados em resolver problemas reais de logística e automação, aplicando Programação Orientada a Objetos (POO).
 
 • Lógica de Negócio: Criação de algoritmos para cálculos de insumos e gestão de eventos (Buffet Festa Perfeita).
@@ -198,8 +191,6 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 <details>
   <summary><b>Projeto 5</b> - Modelagem de Dados e Relatórios SQL</summary>
   
-
-> [!TIP]
 > Estruturação de bancos de dados relacionais e criação de consultas avançadas para análise de informações.
 
 • Modelagem: Criação de tabelas com chaves primárias e estrangeiras (Foreign Keys) para garantir integridade referencial.
