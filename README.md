@@ -129,27 +129,6 @@ Here are some ideas to get you started:
 </details>
 
 
-
-### 📂 Meus Projetos (Clique para expandir)
-
-<details>
-<summary>🚀 <b>Meu Projeto 1 - Open Source na DIO</b></summary>
-
-> [!TIP]
-> Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/159834311/581192599-3e6fa56c-fbf6-4637-be95-634afedfef8e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgyMTc2NjEsIm5iZiI6MTc3ODIxNzM2MSwicGF0aCI6Ii8xNTk4MzQzMTEvNTgxMTkyNTk5LTNlNmZhNTZjLWZiZjYtNDYzNy1iZTk1LTYzNGFmZWRmZWY4ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUwOFQwNTE2MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjFhMzQzYWJkMzAwZjc1ODc0Y2YwMzEyNjEyMjlkZmFhODc4ZjMyMDc3M2I0MWViMjYxYTdkMmZmZjQ2ZWY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.07ER2myduxBdWjZ7yYV3y2Z1opZKWTXWvc285zVgIcQ" width="500" />
-</p>
-
-**Tecnologias utilizadas:**
-![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-4479A1?style=flat-square&logo=github&logoColor=white)
-
-[🔗 Ver código fonte completo](LINK_DO_SEU_REPOSITORIO)
-
-</details>
-
 <!--
 ### 📌 Projetos em Destaque
 
