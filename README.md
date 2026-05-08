@@ -90,6 +90,8 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 -->
 
 ### 📂 Meus Projetos (Clique para expandir)
+#####
+
 
 <details>
 <summary>🚀 <b>Projeto 1 - Open Source na DIO</b></summary>
