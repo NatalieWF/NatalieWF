@@ -142,20 +142,25 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>💻 <b>Projeto 3 - Aplicação Full Stack</b></summary>
+  <summary>💻 <b>Projeto 3 - Criação de aplicações clientes para Windows</b></summary>
   <br />
 
 > [!TIP]
-> Desenvolvimento de uma aplicação completa pa
+> Criação de aplicações clientes para Windows utilizando o framework .NET e a biblioteca WinForms.
+
+• Estrutura Profissional: Utilização de classes parciais (partial class) para separação de design e lógica de backend.
+
+• Ambiente: Desenvolvimento e testes realizados em Máquinas Virtuais (VM) para simulação de infraestrutura.
 
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
-   <img src="https://private-user-images.githubusercontent.com/159834311/581192599-3e6fa56c-fbf6-4637-be95-634afedfef8e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgyMTc2NjEsIm5iZiI6MTc3ODIxNzM2MSwicGF0aCI6Ii8xNTk4MzQzMTEvNTgxMTkyNTk5LTNlNmZhNTZjLWZiZjYtNDYzNy1iZTk1LTYzNGFmZWRmZWY4ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUwOFQwNTE2MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjFhMzQzYWJkMzAwZjc1ODc0Y2YwMzEyNjEyMjlkZmFhODc4ZjMyMDc3M2I0MWViMjYxYTdkMmZmZjQ2ZWY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.07ER2myduxBdWjZ7yYV3y2Z1opZKWTXWvc285zVgIcQ" alt="Preview do Projeto 2" width="500px" />
+   <img src="" alt="Preview do Projeto 2" width="500px" />
     </a>
   </p>
 
 **Tecnologias utilizadas:**
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-2173BB?style=flat-square&logo=virtualbox&logoColor=white)
 </details>
 
 <!--
