@@ -112,6 +112,7 @@ Here are some ideas to get you started:
   [🔗 Ver código fonte completo](https://github.com/NatalieWF/dio-lab-open-source.git)
 </details>
 
+<!--
 ### 📌 Projetos em Destaque
 
 | Projeto | Descrição |
@@ -121,7 +122,7 @@ Here are some ideas to get you started:
 | [**Meu Projeto 3**](https://github.com/NatalieWF/Projetos-CSharp.git) | Utilizando CSharp. |
 | [**Meu Projeto 4**](https://github.com/NatalieWF/An-lise-lista-de-exerc-cios.git) | Utilizando Python. |
 | [**Meu Projeto 5**](https://github.com/NatalieWF/Projeto-SQL.git) | Utilizando SQL. |
-
+-->
 
 
 #### Sempre buscando evoluir.
