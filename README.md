@@ -166,7 +166,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>🗃️ <b>Projeto 4 - Automação de Sistemas e Lógica com Python</b></summary>
+  <summary>🐍 <b>Projeto 4 - Automação de Sistemas e Lógica com Python</b></summary>
   <br />
 
 > [!TIP]
@@ -185,12 +185,12 @@ Here are some ideas to get you started:
 [🔗 Ver código fonte completo](https://github.com/NatalieWF/An-lise-lista-de-exerc-cios.git)
 
 **Tecnologias utilizadas:**
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-2173BB?style=flat-square&logo=virtualbox&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 </details>
 
 <details>
-  <summary>🗃️ <b>Projeto 5 - Modelagem de Dados e Relatórios SQL</b></summary>
+  <summary>💾 <b>Projeto 5 - Modelagem de Dados e Relatórios SQL</b></summary>
   <br />
 
 > [!TIP]
@@ -209,8 +209,7 @@ Here are some ideas to get you started:
 [🔗 Ver código fonte completo](https://github.com/NatalieWF/Projeto-SQL.git)
 
 **Tecnologias utilizadas:**
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-2173BB?style=flat-square&logo=virtualbox&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square&logo=sql&logoColor=white)
 </details>
 
 <!--
