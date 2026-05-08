@@ -101,18 +101,11 @@ Here are some ideas to get you started:
 
   <p align="center">
 
-<a href="https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed">
-<img src="https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed" alt="Preview do Projeto" width="600">
+<a href="https://github.com/NatalieWF/dio-lab-open-source.git">
 
-![Texto Alternativo](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed)
-
-
-<img src="![](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed" alt="Preview do Projeto 1" width="500px"/>
+<img src="" alt="Preview do Projeto 1" width="500px"/>
     </a>
   </p>
-
-
-![Preview do Projeto](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed)
 
   **Tecnologias utilizadas:**
   ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=git&logoColor=white)
