@@ -80,7 +80,7 @@ Profissional em Análise e Desenvolvimento de Sistemas
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact&langs_count=7&theme=dracula" />
 </div>
 -->
-#### Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicações completas.
+Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicações completas.
 
 <p align="left">
    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
@@ -224,8 +224,7 @@ Profissional em Análise e Desenvolvimento de Sistemas
 | [**Meu Projeto 5**](https://github.com/NatalieWF/Projeto-SQL.git) | Utilizando SQL. |
 -->
 
-
-#### Sempre buscando evoluir.
+Sempre buscando evoluir.
 
 <!--
 <div class="icones" text-align="center">
