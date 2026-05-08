@@ -98,11 +98,9 @@ Here are some ideas to get you started:
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
 <p align="center">
-  <img src="![NatalieWF.png.pdf](https://github.com/user-attachments/files/27507225/NatalieWF.png.pdf)
+  <img src="https://github.com/user-attachments/assets/db977c8c-4c80-4b37-92fd-772e532a2707)
 " width="500">
 </p>
-
-
 
 **Tecnologias utilizadas:**
 ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=git&logoColor=white)
