@@ -90,7 +90,7 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 -->
 
 ### 📂 Meus Projetos (Clique para expandir)
-#####
+#
 
 
 <details>
