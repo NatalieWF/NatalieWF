@@ -105,6 +105,8 @@ Here are some ideas to get you started:
     </a>
   </p>
 
+![quickdraw-default-39c6aec8ff89.png](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed)
+
   **Tecnologias utilizadas:**
   ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=dotnet&logoColor=white)
   ![github](https://img.shields.io/badge/github-4479A1?style=flat-square&logo=postgresql&logoColor=white)
