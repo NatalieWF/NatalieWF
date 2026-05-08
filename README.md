@@ -92,8 +92,7 @@ Here are some ideas to get you started:
 ### 📂 Meus Projetos (Clique para expandir)
 
 <details>
-
-  <summary>🚀 <b>Meu Projeto 1 - Open Source na DIO</b></summary>
+<summary>🚀 <b>Meu Projeto 1 - Open Source na DIO</b></summary>
   <br />
   
   > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
@@ -103,6 +102,8 @@ Here are some ideas to get you started:
   <p align="center">
 
 <a href="https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed">
+<img src="https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed" alt="Preview do Projeto" width="600">
+
 
 <img src="![](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed" alt="Preview do Projeto 1" width="500px"/>
     </a>
