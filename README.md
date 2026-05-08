@@ -107,6 +107,7 @@ Here are some ideas to get you started:
     </a>
   </p>
 
+<Br>
 
 ### 📂 Meus Projetos (Clique para expandir)
 
@@ -129,6 +130,9 @@ Here are some ideas to get you started:
 [🔗 Ver código fonte completo](https://github.com/SeuUsuario/dio-lab-open-source)
 
 </details>
+
+<Br>
+
   **Tecnologias utilizadas:**
   ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=git&logoColor=white)
   ![github](https://img.shields.io/badge/github-4479A1?style=flat-square&logo=github&logoColor=white)
