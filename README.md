@@ -101,7 +101,7 @@ Here are some ideas to get you started:
   <!-- Prévia do Projeto (Imagem que leva ao repositório) -->
   <p align="center">
     <a href="LINK_DO_SEU_REPOSITORIO">
-      <img src="URL_DA_SUA_IMAGEM_OU_GIF_DE_PREVIA" alt="Preview do Projeto 1" width="500px" />
+      <img src="imagem" alt="Preview do Projeto 1" width="500px" />
     </a>
   </p>
 
