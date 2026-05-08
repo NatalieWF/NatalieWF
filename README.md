@@ -115,7 +115,13 @@ Here are some ideas to get you started:
   <br />
 
 > [!TIP]
-> Full Stack
+> Desenvolvimento de uma aplicação completa para cadastro e gerenciamento de usuários. O projeto demonstra a integração entre uma interface moderna e um servidor de alta performance conectado à nuvem.
+
+• Front-end: Interface dinâmica desenvolvida com React e Vite.
+
+• Back-end: API REST construída com Node.js e Express, gerenciando métodos CRUD (GET, POST, PUT, DELETE).
+
+• Banco de Dados: Persistência em nuvem utilizando MongoDB Atlas e Prisma ORM para mapeamento de dados.
 
   <p align="center">
     <a href="https://github.com/NatalieWF/Full-Stack.git">
