@@ -97,11 +97,11 @@ Here are some ideas to get you started:
 > [!TIP]
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
-  <p align="center">
-    <a href="https://github.com/NatalieWF/Full-Stack.git">
-   <img src="![Screenshot_20260508-022751.GitHub~2.png](https://github.com/user-attachments/assets/6ff0b209-fe27-4984-9315-fe76b70b143e" alt="Preview do Projeto 2" width="500px" />
-    </a>
-  </p>
+• Contribuiu em um projeto Open Source seguindo o fluxo completo de colaboração.
+• Realizou um fork do repositório, que foi clonado localmente para desenvolvimento.
+• Criou uma nova branch para isolar suas modificações, onde desenvolveu e adicionou um README personalizado, incluindo um perfil (profile README). 
+• Após o desenvolvimento, adicionou as alterações à staging area, criou um commit descritivo e enviou as mudanças para seu repositório remoto.
+• Finalmente, abriu um Pull Request para propor a integração de suas contribuições ao projeto original.
 
 **Tecnologias utilizadas:**
 ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=git&logoColor=white)
@@ -132,7 +132,12 @@ Here are some ideas to get you started:
 
   **Tecnologias utilizadas:**
   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![vite](https://img.shields.io/badge/vite-339933?style=flat-square&logo=vite&logoColor=white)
+  ![APIREST](https://img.shields.io/badge/APIREST-339933?style=flat-square&logo=apirest&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Espress-339933?style=flat-square&logo=espr ss&logoColor=white)
+  ![MongoDBAtlas](https://img.shields.io/badge/MongoDBAtlas-339933?style=flat-square&logo=mongodbatlas&logoColor=white)
+  ![PrismaORM](https://img.shields.io/badge/PrismaORM-339933?style=flat-square&logo=prismaorm&logoColor=white)
 </details>
 
 
