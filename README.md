@@ -49,9 +49,7 @@ Here are some ideas to get you started:
 
 
 
-
-### 🛠️ Tecnologias e Ferramentas (16 itens)
-<!-- Organizado para uma visualização limpa e profissional -->
+### 🛠️ Tecnologias e Ferramentas 
 
 #### 💻 Linguagens e Base
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -75,20 +73,21 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<!--
 ### 📊 Estatísticas
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact&langs_count=7&theme=dracula" />
 </div>
-
-# Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicações completas.
+-->
+#### Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicações completas.
 
 <p align="left">
    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
-## 📌 Projetos em Destaque
+### 📌 Projetos em Destaque
 
 | Projeto | Descrição |
 |---------|-----------|
@@ -100,7 +99,7 @@ Here are some ideas to get you started:
 
 
 
-### Sempre buscando evoluir.
+#### Sempre buscando evoluir.
 
 <!--
 <div class="icones" text-align="center">
@@ -149,8 +148,8 @@ Here are some ideas to get you started:
 </a>
 -->
 
-## Contato 
-### Sinta-se à vontade para ver meus repositórios e não hesite em entrar em contato se tiver alguma dúvida!
+### Contato 
+#### Sinta-se à vontade para ver meus repositórios e não hesite em entrar em contato se tiver alguma dúvida!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalieweles/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nataliedevw@gmail.com)
