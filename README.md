@@ -104,6 +104,8 @@ Here are some ideas to get you started:
       <img src="![quickdraw-default-39c6aec8ff89.png](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed)" alt="Preview do Projeto 1" width="500px" />
     </a>
   </p>
+![Preview do Projeto](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed)
+
 
 ![quickdraw-default-39c6aec8ff89.png](https://github.com/user-attachments/assets/92878fe1-3971-4fe7-a0a5-b63f0a782bed)
 
