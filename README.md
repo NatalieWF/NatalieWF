@@ -116,8 +116,8 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 </details>
 
 <details>
-  <summary>💻 <b>Projeto 2 - Aplicação Full Stack</b></summary>
-  <br />
+  <summary>💻 Projeto 2 - Aplicação Full Stack</summary>
+  
 
 > [!TIP]
 > Desenvolvimento de uma aplicação completa para cadastro e gerenciamento de usuários. O projeto demonstra a integração entre uma interface moderna e um servidor de alta performance conectado à nuvem.
@@ -146,8 +146,8 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 </details>
 
 <details>
-  <summary>🗃️ <b>Projeto 3 - Criação de aplicações clientes para Windows</b></summary>
-  <br />
+  <summary>🗃️ Projeto 3 - Criação de aplicações clientes para Windows</summary>
+  
 
 > [!TIP]
 > Criação de aplicações clientes para Windows utilizando o framework .NET e a biblioteca WinForms.
@@ -170,8 +170,8 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 </details>
 
 <details>
-  <summary>🐍 <b>Projeto 4 - Automação de Sistemas e Lógica com Python</b></summary>
-  <br />
+  <summary>🐍 Projeto 4 - Automação de Sistemas e Lógica com Python</summary>
+  
 
 > [!TIP]
 > Desenvolvimento de scripts focados em resolver problemas reais de logística e automação, aplicando Programação Orientada a Objetos (POO).
@@ -194,8 +194,8 @@ Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicaç�
 </details>
 
 <details>
-  <summary>💾 <b>Projeto 5 - Modelagem de Dados e Relatórios SQL</b></summary>
-  <br />
+  <summary>💾 Projeto 5 - Modelagem de Dados e Relatórios SQL</summary>
+  
 
 > [!TIP]
 > Estruturação de bancos de dados relacionais e criação de consultas avançadas para análise de informações.
