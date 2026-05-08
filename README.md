@@ -75,9 +75,14 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### 📊 Estatísticas
+<div align="center">
+  <!-- Substitua SEU_USUARIO pelo seu nome de usuário do GitHub -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
-
-### Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicações completas.
+## Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicações completas.
 
 <p align="left">
    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
