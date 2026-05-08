@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary><b>📂 Meus Projetos</b></summary>
+<summary><b>🗂️ Meus Projetos</b></summary>
 <br>
 
 <details>
