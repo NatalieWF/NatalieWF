@@ -166,15 +166,15 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>🗃️ <b>Projeto 4 - Criação de aplicações clientes para Windows</b></summary>
+  <summary>🗃️ <b>Projeto 4 - Automação de Sistemas e Lógica com Python</b></summary>
   <br />
 
 > [!TIP]
-> Criação de aplicações clientes para Windows utilizando o framework .NET e a biblioteca WinForms.
+> Desenvolvimento de scripts focados em resolver problemas reais de logística e automação, aplicando Programação Orientada a Objetos (POO).
 
-• Estrutura Profissional: Utilização de classes parciais (partial class) para separação de design e lógica de backend.
+• Lógica de Negócio: Criação de algoritmos para cálculos de insumos e gestão de eventos (Buffet Festa Perfeita).
 
-• Ambiente: Desenvolvimento e testes realizados em Máquinas Virtuais (VM) para simulação de infraestrutura.
+• Interface Gráfica: Construção de janelas e elementos de interação visual para o usuário final.
 <!--
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
@@ -182,7 +182,7 @@ Here are some ideas to get you started:
     </a>
   </p>
 -->
-[🔗 Ver código fonte completo](https://github.com/NatalieWF/Projetos-CSharp.git)
+[🔗 Ver código fonte completo](https://github.com/NatalieWF/An-lise-lista-de-exerc-cios.git)
 
 **Tecnologias utilizadas:**
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -190,15 +190,15 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>🗃️ <b>Projeto 5 - Criação de aplicações clientes para Windows</b></summary>
+  <summary>🗃️ <b>Projeto 5 - Modelagem de Dados e Relatórios SQL</b></summary>
   <br />
 
 > [!TIP]
-> Criação de aplicações clientes para Windows utilizando o framework .NET e a biblioteca WinForms.
+> Estruturação de bancos de dados relacionais e criação de consultas avançadas para análise de informações.
 
-• Estrutura Profissional: Utilização de classes parciais (partial class) para separação de design e lógica de backend.
+• Modelagem: Criação de tabelas com chaves primárias e estrangeiras (Foreign Keys) para garantir integridade referencial.
 
-• Ambiente: Desenvolvimento e testes realizados em Máquinas Virtuais (VM) para simulação de infraestrutura.
+• Manipulação: Uso extensivo de comandos JOIN para consolidar dados de múltiplas fontes em relatórios únicos.
 <!--
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
@@ -206,7 +206,7 @@ Here are some ideas to get you started:
     </a>
   </p>
 -->
-[🔗 Ver código fonte completo](https://github.com/NatalieWF/Projetos-CSharp.git)
+[🔗 Ver código fonte completo](https://github.com/NatalieWF/Projeto-SQL.git)
 
 **Tecnologias utilizadas:**
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
