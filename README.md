@@ -212,6 +212,18 @@ Here are some ideas to get you started:
 </details>
 
 </details>
+
+
+<details>
+<summary><b>🩻 Engineering Journal & Post-Mortems</b></summary>
+<br>
+
+> Post-Mortems
+
+</details>
+
+
+
 <!--
 ### 📌 Projetos em Destaque
 
@@ -224,13 +236,7 @@ Here are some ideas to get you started:
 | [**Meu Projeto 5**](https://github.com/NatalieWF/Projeto-SQL.git) | Utilizando SQL. |
 -->
 
-<details>
-<summary><b>🩻 Engineering Journal & Post-Mortems</b></summary>
-<br>
 
-> 
-
-</details>
 
 <!--
 <div class="icones" text-align="center">
