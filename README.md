@@ -90,11 +90,11 @@ Here are some ideas to get you started:
 <hr>
 
 <details>
-<summary><b>🗂️ Meus Projetos</b></summary>
+<summary><b><sub>🗂️ Meus Projetos<sub></b></summary>
 <br>
 
 <details>
-<summary><b>Projeto 1</b> - Open Source na DIO</summary>
+<summary><b><sub>Projeto 1<sub></b> - Open Source na DIO</summary>
 
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b>Projeto 2</b> - Aplicação Full Stack</summary>
+  <summary><b><sub>Projeto 2<sub></b> - Aplicação Full Stack</summary>
   
 > Desenvolvimento de uma aplicação completa para cadastro e gerenciamento de usuários. O projeto demonstra a integração entre uma interface moderna e um servidor de alta performance conectado à nuvem.
 
@@ -147,7 +147,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b>Projeto 3</b> - Criação de aplicações clientes para Windows</summary>
+  <summary><b><sub>Projeto 3<sub></b> - Criação de aplicações clientes para Windows</summary>
   
 > Criação de aplicações clientes para Windows utilizando o framework .NET e a biblioteca WinForms.
 
@@ -169,7 +169,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b>Projeto 4</b> - Automação de Sistemas e Lógica com Python</summary>
+  <summary><b><sub>Projeto 4<sub></b> - Automação de Sistemas e Lógica com Python</summary>
   
 > Desenvolvimento de scripts focados em resolver problemas reais de logística e automação, aplicando Programação Orientada a Objetos (POO).
 
@@ -191,7 +191,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b>Projeto 5</b> - Modelagem de Dados e Relatórios SQL</summary>
+  <summary><b><sub>Projeto 5<sub></b> - Modelagem de Dados e Relatórios SQL</summary>
   
 > Estruturação de bancos de dados relacionais e criação de consultas avançadas para análise de informações.
 
@@ -221,7 +221,7 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary><b>Caso #01: Mastering Git & GitHub Under Pressure</b></summary>
+<summary><b><sub>Caso #01: Mastering Git & GitHub Under Pressure<sub></b></summary>
 
 > Implementação de Controle de Versão em Ciclo Curto (Bootcamp DIO)
 
@@ -238,7 +238,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><b>Caso #02: O Desafio da Persistência e Integração (Node.js + MongoDB + Prisma)</b></summary>
+<summary><b><sub>Caso #02: O Desafio da Persistência e Integração (Node.js + MongoDB + Prisma)<sub></b></summary>
 
 > • Situação (Situation): Possuía uma base sólida em HTML/CSS e teoria de JavaScript, mas meus projetos eram isolados. O desafio era realizar o "salto" para uma aplicação Full Stack real, integrando Front-end e Back-end pela primeira vez.
 
