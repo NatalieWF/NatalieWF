@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8F33DF&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Seja+bem-vindo(a)!;Sou+Analista+e+Desenvolvedora;Sempre+buscando+evoluir!" alt="Typing SVG" />
 </p>
 
+<hr>
+
 <!--
 ## Hello World! 👋
 --⭐ Olá! Meu nome é Natalie, sou apaixonada pela área de tecnologia. Sou formada em Análise e Desenvolvimento de Sistemas, e gosto de estudar programação com cursos, botcamps, vídeos no YouTube. ⭐-- 
