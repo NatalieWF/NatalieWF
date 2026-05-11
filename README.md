@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <details>
 <summary><b><sub>Projeto 1<sub></b><sub> - Open Source na DIO<sub></summary>
 
-> !NOTE
+<sub>
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
 > • Contribuiu em um projeto Open Source seguindo o fluxo completo de colaboração.
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 > • Após o desenvolvimento, adicionou as alterações à staging area, criou um commit descritivo e enviou as mudanças para seu repositório remoto.
 
 > • Finalmente, abriu um Pull Request para propor a integração de suas contribuições ao projeto original.
-
+<sub>
 **Tecnologias utilizadas:**
 ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-4479A1?style=flat-square&logo=github&logoColor=white)
