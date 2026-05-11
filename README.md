@@ -216,7 +216,7 @@ Here are some ideas to get you started:
 <hr>
 
 <details>
-<summary><b>🩻 Engineering Journal & Post-Mortems</b></summary>
+<summary><b><sub>🩻 Engineering Journal & Post-Mortems<sub></b></summary>
 <br>
 
 
