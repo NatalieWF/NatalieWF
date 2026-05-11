@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 <details>
 <summary><b><sub>Projeto 1<sub></b><sub> - Open Source na DIO<sub></summary>
 
+> [!NOTE]
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
 > • Contribuiu em um projeto Open Source seguindo o fluxo completo de colaboração.
