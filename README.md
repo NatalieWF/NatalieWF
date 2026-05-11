@@ -253,6 +253,7 @@ Here are some ideas to get you started:
 
 <sub>
 
+
 **Tecnologias utilizadas:**
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square&logo=sql&logoColor=white)
 </details>
