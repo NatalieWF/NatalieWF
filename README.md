@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 <hr>
 
 <details>
-<summary><b><sub>🗂️ Meus Projetos<sub></b></summary>
+<summary><b>🗂️ Meus Projetos</b></summary>
 <br>
 
 <details>
@@ -216,7 +216,7 @@ Here are some ideas to get you started:
 <hr>
 
 <details>
-<summary><b><sub>🩻 Engineering Journal & Post-Mortems<sub></b></summary>
+<summary><b>🩻 Engineering Journal & Post-Mortems</b></summary>
 <br>
 
 
