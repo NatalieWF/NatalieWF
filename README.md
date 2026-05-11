@@ -128,6 +128,7 @@ Here are some ideas to get you started:
   <summary><b><sub>Projeto 2<sub></b><sub> - Aplicação Full Stack<sub></summary>
 
 <sub>
+
 > Desenvolvimento de uma aplicação completa para cadastro e gerenciamento de usuários. O projeto demonstra a integração entre uma interface moderna e um servidor de alta performance conectado à nuvem.
 
 > • Front-end: Interface dinâmica desenvolvida com React e Vite.
@@ -135,6 +136,7 @@ Here are some ideas to get you started:
 > • Back-end: API REST construída com Node.js e Express, gerenciando métodos CRUD (GET, POST, PUT, DELETE).
 
 > • Banco de Dados: Persistência em nuvem utilizando MongoDB Atlas e Prisma ORM para mapeamento de dados.
+
 <sub>
 
   <p align="center">
@@ -153,7 +155,9 @@ Here are some ideas to get you started:
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 <sub>
+
 [🔗 Repositório](https://github.com/NatalieWF/Full-Stack.git)
+
 <sub>
 
 </details>
@@ -161,11 +165,16 @@ Here are some ideas to get you started:
 <details>
   <summary><b><sub>Projeto 3<sub></b><sub> - Criação de aplicações clientes para Windows<sub></summary>
   
+<sub>
+
 > Criação de aplicações clientes para Windows utilizando o framework .NET e a biblioteca WinForms.
 
 > • Estrutura Profissional: Utilização de classes parciais (partial class) para separação de design e lógica de backend.
 
 > • Ambiente: Desenvolvimento e testes realizados em Máquinas Virtuais (VM) para simulação de infraestrutura.
+
+<sub>
+
 <!--
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
@@ -173,7 +182,12 @@ Here are some ideas to get you started:
     </a>
   </p>
 -->
+
+<sub>
+
 [🔗 Repositório](https://github.com/NatalieWF/Projetos-CSharp.git)
+
+<sub>
 
 **Tecnologias utilizadas:**
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -182,12 +196,17 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b><sub>Projeto 4<sub></b><sub> - Automação de Sistemas e Lógica com Python<sub></summary>
+
+<sub>
   
 > Desenvolvimento de scripts focados em resolver problemas reais de logística e automação, aplicando Programação Orientada a Objetos (POO).
 
 > • Lógica de Negócio: Criação de algoritmos para cálculos de insumos e gestão de eventos (Buffet Festa Perfeita).
 
 > • Interface Gráfica: Construção de janelas e elementos de interação visual para o usuário final.
+
+<sub>
+
 <!--
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
@@ -195,7 +214,12 @@ Here are some ideas to get you started:
     </a>
   </p>
 -->
+
+<sub>
+
 [🔗 Repositório](https://github.com/NatalieWF/An-lise-lista-de-exerc-cios.git)
+
+<sub>
 
 **Tecnologias utilizadas:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -205,11 +229,16 @@ Here are some ideas to get you started:
 <details>
   <summary><b><sub>Projeto 5<sub></b><sub> - Modelagem de Dados e Relatórios SQL<sub></summary>
   
+<sub>
+
 > Estruturação de bancos de dados relacionais e criação de consultas avançadas para análise de informações.
 
 > • Modelagem: Criação de tabelas com chaves primárias e estrangeiras (Foreign Keys) para garantir integridade referencial.
 
 > • Manipulação: Uso extensivo de comandos JOIN para consolidar dados de múltiplas fontes em relatórios únicos.
+
+<sub>
+
 <!--
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
@@ -217,7 +246,12 @@ Here are some ideas to get you started:
     </a>
   </p>
 -->
+
+<sub>
+
 [🔗 Repositório](https://github.com/NatalieWF/Projeto-SQL.git)
+
+<sub>
 
 **Tecnologias utilizadas:**
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square&logo=sql&logoColor=white)
@@ -235,6 +269,8 @@ Here are some ideas to get you started:
 <details>
 <summary><b><sub>Caso #01: Mastering Git & GitHub Under Pressure<sub></b></summary>
 
+<sub>
+
 > Implementação de Controle de Versão em Ciclo Curto (Bootcamp DIO)
 
 > • Situação (Situation): Durante o bootcamp de desenvolvimento na DIO, fui desafiada a contribuir em um projeto Open Source. Naquele momento, eu possuía apenas conhecimentos iniciais sobre Git e GitHub, enfrentando uma curva de aprendizado íngreme com um prazo de entrega final extremamente rigoroso.
@@ -247,10 +283,14 @@ Here are some ideas to get you started:
 
 > • Resultado (Result): Concluí o desafio dentro do prazo, garantindo minha certificação em Versionamento de Código com Git e GitHub. Hoje, possuo total autonomia para gerenciar repositórios complexos, uma competência que as tendências de 2026 apontam como obrigatória para qualquer desenvolvedor que deseje "despachar software" com segurança e agilidade.
 
+<sub>
+
 </details>
 
 <details>
 <summary><b><sub>Caso #02: O Desafio da Persistência e Integração (Node.js + MongoDB + Prisma)<sub></b></summary>
+
+<sub>
 
 > • Situação (Situation): Possuía uma base sólida em HTML/CSS e teoria de JavaScript, mas meus projetos eram isolados. O desafio era realizar o "salto" para uma aplicação Full Stack real, integrando Front-end e Back-end pela primeira vez.
 
@@ -265,6 +305,8 @@ Here are some ideas to get you started:
 > • Persistir na depuração de logs e inspeção de APIs até garantir que o fluxo de dados estivesse 100% íntegro.
 
 > • Resultado (Result): Concluí a aplicação com sucesso, dominando na prática o ciclo completo de um sistema: do formulário no React à persistência segura na nuvem.
+
+<sub>
 
 </details>
 
