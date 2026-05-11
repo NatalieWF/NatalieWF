@@ -215,14 +215,14 @@ Here are some ideas to get you started:
   </p>
 -->
 
+**Tecnologias utilizadas:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 <sub>
 
 [🔗 Repositório](https://github.com/NatalieWF/An-lise-lista-de-exerc-cios.git)
 
 <sub>
-
-**Tecnologias utilizadas:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </details>
 
@@ -247,16 +247,15 @@ Here are some ideas to get you started:
   </p>
 -->
 
+**Tecnologias utilizadas:**
+![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square&logo=sql&logoColor=white)
+</details>
+
 <sub>
 
 [🔗 Repositório](https://github.com/NatalieWF/Projeto-SQL.git)
 
 <sub>
-
-
-**Tecnologias utilizadas:**
-![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square&logo=sql&logoColor=white)
-</details>
 
 </details>
 
