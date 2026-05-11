@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <br>
 
 <details>
-<summary><b><sub>Projeto 1<sub></b> - Open Source na DIO</summary>
+<summary><b><sub>Projeto 1<sub></b><sub> - Open Source na DIO<sub></summary>
 
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
 
@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b><sub>Projeto 2<sub></b> - Aplicação Full Stack</summary>
+  <summary><b><sub>Projeto 2<sub></b><sub> - Aplicação Full Stack<sub></summary>
   
 > Desenvolvimento de uma aplicação completa para cadastro e gerenciamento de usuários. O projeto demonstra a integração entre uma interface moderna e um servidor de alta performance conectado à nuvem.
 
@@ -147,7 +147,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b><sub>Projeto 3<sub></b> - Criação de aplicações clientes para Windows</summary>
+  <summary><b><sub>Projeto 3<sub></b><sub> - Criação de aplicações clientes para Windows<sub></summary>
   
 > Criação de aplicações clientes para Windows utilizando o framework .NET e a biblioteca WinForms.
 
@@ -169,7 +169,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b><sub>Projeto 4<sub></b> - Automação de Sistemas e Lógica com Python</summary>
+  <summary><b><sub>Projeto 4<sub></b><sub> - Automação de Sistemas e Lógica com Python<sub></summary>
   
 > Desenvolvimento de scripts focados em resolver problemas reais de logística e automação, aplicando Programação Orientada a Objetos (POO).
 
@@ -191,7 +191,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b><sub>Projeto 5<sub></b> - Modelagem de Dados e Relatórios SQL</summary>
+  <summary><b><sub>Projeto 5<sub></b><sub> - Modelagem de Dados e Relatórios SQL<sub></summary>
   
 > Estruturação de bancos de dados relacionais e criação de consultas avançadas para análise de informações.
 
