@@ -109,17 +109,21 @@ Here are some ideas to get you started:
 
 > • Finalmente, abriu um Pull Request para propor a integração de suas contribuições ao projeto original.
 <sub>
+
 **Tecnologias utilizadas:**
 ![git](https://img.shields.io/badge/git-512BD4?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-4479A1?style=flat-square&logo=github&logoColor=white)
 
+<sub>
 [🔗 Repositório](https://github.com/NatalieWF/dio-lab-open-source.git)
+<sub>
 
 </details>
 
 <details>
   <summary><b><sub>Projeto 2<sub></b><sub> - Aplicação Full Stack<sub></summary>
-  
+
+<sub>
 > Desenvolvimento de uma aplicação completa para cadastro e gerenciamento de usuários. O projeto demonstra a integração entre uma interface moderna e um servidor de alta performance conectado à nuvem.
 
 > • Front-end: Interface dinâmica desenvolvida com React e Vite.
@@ -127,6 +131,7 @@ Here are some ideas to get you started:
 > • Back-end: API REST construída com Node.js e Express, gerenciando métodos CRUD (GET, POST, PUT, DELETE).
 
 > • Banco de Dados: Persistência em nuvem utilizando MongoDB Atlas e Prisma ORM para mapeamento de dados.
+<sub>
 
   <p align="center">
     <a href="https://github.com/NatalieWF/Full-Stack.git">
@@ -143,7 +148,9 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
+<sub>
 [🔗 Repositório](https://github.com/NatalieWF/Full-Stack.git)
+<sub>
 
 </details>
 
