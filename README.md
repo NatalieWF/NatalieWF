@@ -213,6 +213,7 @@ Here are some ideas to get you started:
 
 </details>
 
+<hr>
 
 <details>
 <summary><b>🩻 Engineering Journal & Post-Mortems</b></summary>
