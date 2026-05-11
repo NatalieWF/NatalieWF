@@ -236,8 +236,26 @@ Here are some ideas to get you started:
 
 </details>
 
+<details>
+<summary><b>Caso #02: O Desafio da Persistência e Integração (Node.js + MongoDB + Prisma)</b></summary>
+
+> • Situação (Situation): Possuía uma base sólida em HTML/CSS e teoria de JavaScript, mas meus projetos eram isolados. O desafio era realizar o "salto" para uma aplicação Full Stack real, integrando Front-end e Back-end pela primeira vez.
+
+> • Tarefa (Task): Construir uma API REST funcional usando Node.js e Express, conectá-la a um banco de dados MongoDB Atlas via Prisma ORM, e criar uma interface dinâmica em React com Vite.
+
+> • Ação (Action): Diante da falta de experiência prévia com essa stack, adotei uma estratégia de Lifelong Learning. 
+
+> • Quando enfrentei erros críticos na conexão entre o Back-end e o MongoDB, utilizei o Pensamento Computacional para: Decompor as mensagens de erro do terminal para isolar falhas de configuração no Prisma.
+
+> • Consultar e validar soluções via documentação técnica e IA, mantendo o senso crítico para não aceitar códigos sem funcionalidade garantida.
+
+> • Persistir na depuração de logs e inspeção de APIs até garantir que o fluxo de dados estivesse 100% íntegro.
+
+> • Resultado (Result): Concluí a aplicação com sucesso, dominando na prática o ciclo completo de um sistema: do formulário no React à persistência segura na nuvem.
+
 </details>
 
+</details>
 
 <!--
 ### 📌 Projetos em Destaque
@@ -280,6 +298,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
+<br>
 <!-- GIF -->
 <p>
   <img align="center" src="https://github.com/NatalieWF/NatalieWF/assets/159834311/441681ff-b5b4-4d5e-a1e6-50ebec4e134d" alt="Imagem" width="300" height="150">
