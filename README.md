@@ -183,15 +183,16 @@ Here are some ideas to get you started:
   </p>
 -->
 
+**Tecnologias utilizadas:**
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-2173BB?style=flat-square&logo=virtualbox&logoColor=white)
+
 <sub>
 
 [🔗 Repositório](https://github.com/NatalieWF/Projetos-CSharp.git)
 
 <sub>
 
-**Tecnologias utilizadas:**
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-2173BB?style=flat-square&logo=virtualbox&logoColor=white)
 </details>
 
 <details>
@@ -249,13 +250,14 @@ Here are some ideas to get you started:
 
 **Tecnologias utilizadas:**
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square&logo=sql&logoColor=white)
-</details>
 
 <sub>
 
 [🔗 Repositório](https://github.com/NatalieWF/Projeto-SQL.git)
 
 <sub>
+
+</details>
 
 </details>
 
