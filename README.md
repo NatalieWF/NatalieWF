@@ -220,9 +220,9 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary><b>Mastering Git & GitHub Under Pressure</b></summary>
+<summary><b>Caso #01: Mastering Git & GitHub Under Pressure</b></summary>
 
-> Caso #01: Implementação de Controle de Versão em Ciclo Curto (Bootcamp DIO)
+> Implementação de Controle de Versão em Ciclo Curto (Bootcamp DIO)
 Situação (Situation): Durante o bootcamp de desenvolvimento na DIO, fui desafiada a contribuir em um projeto Open Source. Naquele momento, eu possuía apenas conhecimentos iniciais sobre Git e GitHub, enfrentando uma curva de aprendizado íngreme com um prazo de entrega final extremamente rigoroso.
 
 > Tarefa (Task): O objetivo era dominar o fluxo completo de versionamento de código e hospedar o projeto profissionalmente no GitHub, garantindo que o desafio técnico fosse concluído com excelência antes do encerramento do curso.
