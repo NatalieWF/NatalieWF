@@ -397,7 +397,7 @@ alt="Preview do Projeto 2" width="500px" />
 <hr>
 
 <details>
-<summary><b>🩻 Engineering Journal & Post-Mortems</b></summary>
+<summary><b>🔎 Engineering Journal & Post-Mortems</b></summary>
 <br>
 
 
