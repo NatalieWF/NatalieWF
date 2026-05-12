@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8F33DF&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Seja+bem-vindo(a)!;Sou+Analista+e+Desenvolvedora;Sempre+buscando+evoluir!" alt="Typing SVG" />
 </p>
 
+<hr>
 
 <!--
 ## Hello World! 👋
@@ -92,7 +93,6 @@ Here are some ideas to get you started:
 ![Scrum](https://img.shields.io/badge/Scrum-F06E95?style=for-the-badge&logo=scrum&logoColor=white)
 -->
 
-<hr>
 
 #### **Linguagens e Desenvolvimento Web**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
