@@ -207,11 +207,21 @@ alt="Preview do Projeto 2" width="500px" />
 
 <sub>
 
+17786179354258986490062686372976" src="https://github.com/user-attachments/assets/b2163187-c1fc-47c3-9d9c-d182d3111b3d
+
   <p align="center">
     <a href="https://github.com/NatalieWF/Full-Stack.git">
-<img src="https://private-user-images.githubusercontent.com/159834311/581192599-3e6fa56c-fbf6-4637-be95-634afedfef8e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg2MTYwNjgsIm5iZiI6MTc3ODYxNTc2OCwicGF0aCI6Ii8xNTk4MzQzMTEvNTgxMTkyNTk5LTNlNmZhNTZjLWZiZjYtNDYzNy1iZTk1LTYzNGFmZWRmZWY4ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUxMlQxOTU2MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZTNlODRlMmYwOGE3MjJhNWE3MjA3Yzk1MzQxYWFmMDRmOWZkZTBjZTgwOTIxY2I5ODMyY2EzN2FjOTk1MjY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.rDhq5cN3AezlAlxB7Bq40Rhod2N-83bIchrrRoajnvk" alt="Preview do Projeto 2" width="500px" />
+<img src="https://github.com/user-attachments/assets/b2163187-c1fc-47c3-9d9c-d182d3111b3d" alt="Preview do Projeto 2" width="500px" />
     </a>
   </p>
+
+<!--
+
+  <img width="1217" height="585" alt="17786179354258986490062686372976" src="https://github.com/user-attachments/assets/b2163187-c1fc-47c3-9d9c-d182d3111b3d" />
+
+
+  https://private-user-images.githubusercontent.com/159834311/581192599-3e6fa56c-fbf6-4637-be95-634afedfef8e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg2MTYwNjgsIm5iZiI6MTc3ODYxNTc2OCwicGF0aCI6Ii8xNTk4MzQzMTEvNTgxMTkyNTk5LTNlNmZhNTZjLWZiZjYtNDYzNy1iZTk1LTYzNGFmZWRmZWY4ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUxMlQxOTU2MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZTNlODRlMmYwOGE3MjJhNWE3MjA3Yzk1MzQxYWFmMDRmOWZkZTBjZTgwOTIxY2I5ODMyY2EzN2FjOTk1MjY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.rDhq5cN3AezlAlxB7Bq40Rhod2N-83bIchrrRoajnvk
+-->
 
   **Tecnologias utilizadas:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
