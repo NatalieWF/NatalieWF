@@ -338,6 +338,26 @@ Here are some ideas to get you started:
 
 </details>
 
+<details>
+<summary><b><sub>Caso #04: Automação de Lógica e Depuração em Ambiente Jupyter<sub></b></summary>
+
+<sub>
+
+> • Situação (Situation): Durante a disciplina de Análise Exploratória de Dados, fui desafiada a resolver uma lista complexa de exercícios de lógica e a desenvolver o projeto final "Buffet Festa Perfeita". O trabalho exigia o uso do ambiente Jupyter Notebook, focado em testes iterativos e processamento de dados.
+
+> • Tarefa (Task): Automatizar o cálculo de suprimentos (comidas e bebidas) para um buffet, garantindo que o sistema lidasse corretamente com restrições de negócio e variáveis de entrada (quantidade de convidados).
+
+> • Ação (Action): Utilizei uma abordagem experimental e rigorosa. Em vez de apenas escrever o código final, realizei testes exaustivos bloco a bloco no Jupyter. Enfrentei e resolvi diversos erros de sintaxe, praticando a habilidade crítica de leitura de logs e rastreamento de falhas. Apliquei o Pensamento Computacional para:
+Decomposição: Quebrei os cálculos de insumos (carne, refrigerantes, doces) em fórmulas lógicas independentes.
+
+> • Algoritmos: Estruturei uma lógica condicional para validar o mínimo de convidados, garantindo a sustentabilidade da proposta comercial.
+
+> • Resultado (Result): Desenvolvi um script funcional que automatiza o planejamento logístico de um buffet. A experiência de "fazer o código rodar" após a depuração consolidou minha confiança técnica em Python, a linguagem líder para dados e IA em 2026. O projeto foi concluído com sucesso e está documentado em meu GitHub como prova de minha capacidade de automação e scripting.
+
+<sub>
+
+</details>
+
 </details>
 
 <hr>
