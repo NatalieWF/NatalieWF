@@ -233,13 +233,13 @@ Here are some ideas to get you started:
 
 <sub>
 
-<!--
+
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
-   <img src="" alt="Preview do Projeto 2" width="500px" />
+   <img src="https://private-user-images.githubusercontent.com/159834311/591324052-051df17e-6a6f-45d5-b9d7-6774d15d0e56.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg2MTc0NzQsIm5iZiI6MTc3ODYxNzE3NCwicGF0aCI6Ii8xNTk4MzQzMTEvNTkxMzI0MDUyLTA1MWRmMTdlLTZhNmYtNDVkNS1iOWQ3LTY3NzRkMTVkMGU1Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUxMlQyMDE5MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNTIwZjIzMTM1MDljNGZmNzNkZDE0NzYyYzdiOGRmNTU3ZTFlZDA3NTNmMTY3ZGYyZWE1MmRiMjI0NDFjNTNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ._jORU3_Qk6BYIL-8RtZaLKZOAlpNAg3_i514fgD2CDI" alt="Preview do Projeto 2" width="500px" />
     </a>
   </p>
--->
+
 
 **Tecnologias utilizadas:**
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
