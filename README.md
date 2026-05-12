@@ -137,7 +137,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalieWF&layout=compact&langs_count=7&theme=dracula" />
 </div>
 -->
-##### • Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicações completas.
 
 <p align="left">
    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatalieWF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
@@ -403,7 +402,7 @@ alt="Preview do Projeto 2" width="500px" />
 
 
 <details>
-<summary><b><sub>Caso #01: Mastering Git & GitHub Under Pressure<sub></b></summary>
+<summary><sub><b>Caso #01:</b> Mastering Git & GitHub Under Pressure<sub></summary>
 
 <br>
 
@@ -426,7 +425,7 @@ alt="Preview do Projeto 2" width="500px" />
 </details>
 
 <details>
-<summary><b><sub>Caso #02: O Desafio da Persistência e Integração (Node.js + MongoDB + Prisma)<sub></b></summary>
+<summary><sub><b>Caso #02:</b> O Desafio da Persistência e Integração (Node.js + MongoDB + Prisma)<sub></summary>
 
 <br>
 
@@ -452,7 +451,7 @@ alt="Preview do Projeto 2" width="500px" />
 
 
 <details>
-<summary><b><sub>Caso #03: Desenvolvimento Windows Forms e Gestão de Ambiente Virtual (C#)<sub></b></summary>
+<summary><sub><b>Caso #03:</b> Desenvolvimento Windows Forms e Gestão de Ambiente Virtual (C#)<sub></summary>
 
 <br>
 
@@ -477,7 +476,7 @@ alt="Preview do Projeto 2" width="500px" />
 </details>
 
 <details>
-<summary><b><sub>Caso #04: Automação de Lógica e Depuração em Ambiente Jupyter<sub></b></summary>
+<summary><sub><b>Caso #04:</b> Automação de Lógica e Depuração em Ambiente Jupyter<sub></summary>
 
 <br>
 
@@ -499,7 +498,7 @@ Decomposição: Quebrei os cálculos de insumos (carne, refrigerantes, doces) em
 </details>
 
 <details>
-<summary><b><sub>Caso #05: Extensão Universitária em Modelagem de Dados e Relatórios Estratégicos<sub></b></summary>
+<summary><sub><b>Caso #05:</b> Extensão Universitária em Modelagem de Dados e Relatórios Estratégicos<sub></summary>
 
 <br>
 
@@ -566,8 +565,8 @@ Decomposição: Quebrei os cálculos de insumos (carne, refrigerantes, doces) em
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 -->
+##### • Atualmente explorando **.NET**, **React** e **Node.js** para construir aplicações completas.
 
-<br>
 <!-- GIF -->
 <p>
   <img align="center" src="https://github.com/NatalieWF/NatalieWF/assets/159834311/441681ff-b5b4-4d5e-a1e6-50ebec4e134d" alt="Imagem" width="300" height="150">
