@@ -405,6 +405,8 @@ alt="Preview do Projeto 2" width="500px" />
 <details>
 <summary><b><sub>Caso #01: Mastering Git & GitHub Under Pressure<sub></b></summary>
 
+<br>
+
 <sub>
 
 > Implementação de Controle de Versão em Ciclo Curto (Bootcamp DIO)
@@ -425,6 +427,8 @@ alt="Preview do Projeto 2" width="500px" />
 
 <details>
 <summary><b><sub>Caso #02: O Desafio da Persistência e Integração (Node.js + MongoDB + Prisma)<sub></b></summary>
+
+<br>
 
 <sub>
 
@@ -450,6 +454,8 @@ alt="Preview do Projeto 2" width="500px" />
 <details>
 <summary><b><sub>Caso #03: Desenvolvimento Windows Forms e Gestão de Ambiente Virtual (C#)<sub></b></summary>
 
+<br>
+
 <sub>
 
 > • Situação (Situation): Durante as aulas de programação na universidade, trabalhamos no desenvolvimento de diversas aplicações desktop utilizando a linguagem C#. O ambiente de trabalho era operado através de Máquinas Virtuais (VMs), garantindo o isolamento e a padronização do ecossistema de desenvolvimento.
@@ -473,6 +479,8 @@ alt="Preview do Projeto 2" width="500px" />
 <details>
 <summary><b><sub>Caso #04: Automação de Lógica e Depuração em Ambiente Jupyter<sub></b></summary>
 
+<br>
+
 <sub>
 
 > • Situação (Situation): Durante a disciplina de Análise Exploratória de Dados, fui desafiada a resolver uma lista complexa de exercícios de lógica e a desenvolver o projeto final "Buffet Festa Perfeita". O trabalho exigia o uso do ambiente Jupyter Notebook, focado em testes iterativos e processamento de dados.
@@ -492,6 +500,8 @@ Decomposição: Quebrei os cálculos de insumos (carne, refrigerantes, doces) em
 
 <details>
 <summary><b><sub>Caso #05: Extensão Universitária em Modelagem de Dados e Relatórios Estratégicos<sub></b></summary>
+
+<br>
 
 <sub>
 
