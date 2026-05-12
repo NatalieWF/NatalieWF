@@ -358,6 +358,29 @@ Decomposição: Quebrei os cálculos de insumos (carne, refrigerantes, doces) em
 
 </details>
 
+<details>
+<summary><b><sub>Caso #05: Extensão Universitária em Modelagem de Dados e Relatórios Estratégicos<sub></b></summary>
+
+<sub>
+
+> • Situação (Situation): Participei de um projeto de extensão universitária focado em resolver problemas reais de armazenamento de informações através de bancos de dados relacionais. Eu já possuía uma base teórica e prática sólida de disciplinas anteriores, o que me permitiu focar na aplicação avançada de conceitos.
+
+> • Tarefa (Task): O objetivo era realizar a modelagem completa de dados de um sistema (como o de gestão de alunos e notas), criando tabelas normalizadas e gerando relatórios complexos via SQL para extrair insights valiosos.
+
+> • Ação (Action): Apliquei os pilares do Pensamento Computacional para garantir a eficiência do projeto:
+
+> • Abstração: Foquei nos elementos essenciais das entidades (Alunos, Pedidos, Itens) para definir tipos de dados precisos e chaves primárias/estrangeiras consistentes.
+
+> • Modelagem Relacional: Desenvolvi consultas utilizando JOINs para correlacionar tabelas diferentes e gerar visões unificadas dos dados.
+
+> • Otimização de Consultas: Utilizei funções agregadoras como COUNT, SUM e GROUP BY para criar relatórios sumarizados, demonstrando a capacidade de tratar grandes volumes de dados de forma performática.
+
+> • Resultado (Result): Entreguei um banco de dados estruturado e pronto para produção, com consultas que transformam dados brutos em inteligência de negócio. Esta experiência consolidou minha proficiência em SQL e Design de Schemas, habilidades que as fontes citam como obrigatórias para juniores que desejam atuar em arquiteturas de alta performance em 2026.
+
+<sub>
+
+</details>
+
 </details>
 
 <hr>
