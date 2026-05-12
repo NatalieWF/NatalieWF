@@ -168,6 +168,16 @@ Here are some ideas to get you started:
 
 > • Finalmente, abriu um Pull Request para propor a integração de suas contribuições ao projeto original.
 
+<!--
+<img width="1080" height="1452" alt="Screenshot_20260508-022751 GitHub~2" src="https://github.com/user-attachments/assets/4df6bfc5-aa33-49a7-979b-ce824ef42fc4" />
+-->
+
+<p align="center">
+    <a href="Screenshot_20260508-022751 GitHub~2" src="https://github.com/user-attachments/assets/4df6bfc5-aa33-49a7-979b-ce824ef42fc4" 
+alt="Preview do Projeto 2" width="500px" />
+    </a>
+  </p>
+
 <sub>
 
 **Tecnologias utilizadas:**
