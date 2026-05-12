@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 ### Tecnologias e Ferramentas 
 
+<!--
 #### Linguagens e Base
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -90,6 +91,7 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-F06E95?style=for-the-badge&logo=scrum&logoColor=white)
+-->
 
 <hr>
 
