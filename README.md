@@ -314,6 +314,30 @@ Here are some ideas to get you started:
 
 </details>
 
+
+<details>
+<summary><b><sub>Caso #03: Desenvolvimento Windows Forms e Gestão de Ambiente Virtual (C#)<sub></b></summary>
+
+<sub>
+
+> • Situação (Situation): Durante as aulas de programação na universidade, trabalhamos no desenvolvimento de diversas aplicações desktop utilizando a linguagem C#. O ambiente de trabalho era operado através de Máquinas Virtuais (VMs), garantindo o isolamento e a padronização do ecossistema de desenvolvimento.
+
+> • Tarefa (Task): O objetivo era projetar e implementar interfaces gráficas funcionais (formulários) e lógicas de processamento de dados complexas, assegurando que o código fosse limpo e eficiente.
+
+> • Ação (Action): Embora os projetos fossem individuais, adotei uma postura de liderança técnica e colaboração. Pratiquei o Pair Programming informal, sentando com colegas para:
+
+>  • Comparar e revisar códigos (Code Review): Discutindo diferentes abordagens para o mesmo problema lógico.
+
+>  • Depurar falhas (Debugging): Conversando abertamente sobre erros de sintaxe ou de lógica e rastreando a causa raiz de forma conjunta.
+
+>  • Abstração de Infraestrutura: Mesmo com as VMs pré-configuradas, desenvolvi a autonomia para configurar novos ambientes de desenvolvimento seguindo documentações técnicas, preparando-me para desafios de Cloud & DevOps Basics.
+
+> • Resultado (Result): Concluí com sucesso a criação de múltiplos sistemas em C#, consolidando meu entendimento sobre Arquitetura de Sistemas e lógica orientada a objetos. Essa experiência provou que possuo as soft skills de comunicação técnica e trabalho em equipe necessárias para ambientes de desenvolvimento ágil em 2026.
+
+<sub>
+
+</details>
+
 </details>
 
 <hr>
