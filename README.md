@@ -171,12 +171,19 @@ Here are some ideas to get you started:
 <!--
 <img width="1080" height="1452" alt="Screenshot_20260508-022751 GitHub~2" src="https://github.com/user-attachments/assets/4df6bfc5-aa33-49a7-979b-ce824ef42fc4" />
 -->
-
+<!--
 <p align="center">
     <a href="Screenshot_20260508-022751 GitHub~2" src="https://github.com/user-attachments/assets/4df6bfc5-aa33-49a7-979b-ce824ef42fc4" 
 alt="Preview do Projeto 2" width="500px" />
     </a>
   </p>
+  -->
+
+  <p align="center">
+  <a href="(https://github.com/NatalieWF/dio-lab-open-source.git)">
+    <img src="https://github.com/user-attachments/assets/4df6bfc5-aa33-49a7-979b-ce824ef42fc4" alt="Preview do Projeto 1" width="500">
+  </a>
+</p>
 
 <sub>
 
@@ -207,13 +214,19 @@ alt="Preview do Projeto 2" width="500px" />
 
 <sub>
 
-17786179354258986490062686372976" src="https://github.com/user-attachments/assets/b2163187-c1fc-47c3-9d9c-d182d3111b3d
-
+<!--
   <p align="center">
     <a href="https://github.com/NatalieWF/Full-Stack.git">
 <img src="https://github.com/user-attachments/assets/b2163187-c1fc-47c3-9d9c-d182d3111b3d" alt="Preview do Projeto 2" width="500px" />
     </a>
   </p>
+  -->
+
+<p align="center">
+  <a href="(https://github.com/NatalieWF/Full-Stack.git)">
+    <img src="https://github.com/user-attachments/assets/b2163187-c1fc-47c3-9d9c-d182d3111b3d" alt="Preview do Projeto 1" width="500">
+  </a>
+</p>
 
 <!--
 
@@ -253,12 +266,20 @@ alt="Preview do Projeto 2" width="500px" />
 
 <sub>
 
-
+<!--
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
    <img src="https://private-user-images.githubusercontent.com/159834311/591324052-051df17e-6a6f-45d5-b9d7-6774d15d0e56.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg2MTc0NzQsIm5iZiI6MTc3ODYxNzE3NCwicGF0aCI6Ii8xNTk4MzQzMTEvNTkxMzI0MDUyLTA1MWRmMTdlLTZhNmYtNDVkNS1iOWQ3LTY3NzRkMTVkMGU1Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUxMlQyMDE5MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNTIwZjIzMTM1MDljNGZmNzNkZDE0NzYyYzdiOGRmNTU3ZTFlZDA3NTNmMTY3ZGYyZWE1MmRiMjI0NDFjNTNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ._jORU3_Qk6BYIL-8RtZaLKZOAlpNAg3_i514fgD2CDI" alt="Preview do Projeto 2" width="500px" />
     </a>
   </p>
+  -->
+  
+
+<p align="center">
+  <a href="(https://github.com/NatalieWF/Projetos-CSharp.git)">
+    <img src="https://github.com/user-attachments/assets/c31e7d79-ff85-4cfc-aca0-9facb07b1585" alt="Preview do Projeto 1" width="500">
+  </a>
+</p>
 
 
 **Tecnologias utilizadas:**
