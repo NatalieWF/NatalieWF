@@ -154,6 +154,8 @@ Here are some ideas to get you started:
 <details>
 <summary><b><sub>Projeto 1<sub></b><sub> - Open Source na DIO<sub></summary>
 
+<br>
+
 <sub>
 
 > Este projeto foca em contribuições open source utilizando tecnologias como Git e GitHub.
@@ -167,6 +169,9 @@ Here are some ideas to get you started:
 > • Após o desenvolvimento, adicionou as alterações à staging area, criou um commit descritivo e enviou as mudanças para seu repositório remoto.
 
 > • Finalmente, abriu um Pull Request para propor a integração de suas contribuições ao projeto original.
+
+
+<br>
 
 <!--
 <img width="1080" height="1452" alt="Screenshot_20260508-022751 GitHub~2" src="https://github.com/user-attachments/assets/4df6bfc5-aa33-49a7-979b-ce824ef42fc4" />
@@ -202,6 +207,8 @@ alt="Preview do Projeto 2" width="500px" />
 <details>
   <summary><b><sub>Projeto 2<sub></b><sub> - Aplicação Full Stack<sub></summary>
 
+<br>
+
 <sub>
 
 > Desenvolvimento de uma aplicação completa para cadastro e gerenciamento de usuários. O projeto demonstra a integração entre uma interface moderna e um servidor de alta performance conectado à nuvem.
@@ -213,6 +220,8 @@ alt="Preview do Projeto 2" width="500px" />
 > • Banco de Dados: Persistência em nuvem utilizando MongoDB Atlas e Prisma ORM para mapeamento de dados.
 
 <sub>
+
+<br>
 
 <!--
   <p align="center">
@@ -255,7 +264,9 @@ alt="Preview do Projeto 2" width="500px" />
 
 <details>
   <summary><b><sub>Projeto 3<sub></b><sub> - Criação de aplicações clientes para Windows<sub></summary>
-  
+
+<br>
+
 <sub>
 
 > Criação de aplicações clientes para Windows utilizando o framework .NET e a biblioteca WinForms.
@@ -265,6 +276,8 @@ alt="Preview do Projeto 2" width="500px" />
 > • Ambiente: Desenvolvimento e testes realizados em Máquinas Virtuais (VM) para simulação de infraestrutura.
 
 <sub>
+
+<br>
 
 <!--
 <p align="center">
@@ -297,6 +310,8 @@ alt="Preview do Projeto 2" width="500px" />
 <details>
   <summary><b><sub>Projeto 4<sub></b><sub> - Automação de Sistemas e Lógica com Python<sub></summary>
 
+<br>
+
 <sub>
   
 > Desenvolvimento de scripts focados em resolver problemas reais de logística e automação, aplicando Programação Orientada a Objetos (POO).
@@ -307,6 +322,8 @@ alt="Preview do Projeto 2" width="500px" />
 
 <sub>
 
+<br>
+
 <!--
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
@@ -314,6 +331,13 @@ alt="Preview do Projeto 2" width="500px" />
     </a>
   </p>
 -->
+
+<p align="center">
+  <a href="(https://github.com/NatalieWF/An-lise-lista-de-exerc-cios.git)">
+    <img src="https://github.com/user-attachments/assets/336fcd6f-7850-426e-9003-82455ebe13d4" alt="Preview do Projeto 1" width="500">
+  </a>
+</p>
+
 
 **Tecnologias utilizadas:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -328,7 +352,9 @@ alt="Preview do Projeto 2" width="500px" />
 
 <details>
   <summary><b><sub>Projeto 5<sub></b><sub> - Modelagem de Dados e Relatórios SQL<sub></summary>
-  
+
+<br>
+
 <sub>
 
 > Estruturação de bancos de dados relacionais e criação de consultas avançadas para análise de informações.
@@ -339,6 +365,8 @@ alt="Preview do Projeto 2" width="500px" />
 
 <sub>
 
+<br>
+
 <!--
 <p align="center">
     <a href="https://github.com/NatalieWF/Projetos-CSharp.git">
@@ -346,6 +374,13 @@ alt="Preview do Projeto 2" width="500px" />
     </a>
   </p>
 -->
+
+<p align="center">
+  <a href="(https://github.com/NatalieWF/Projeto-SQL.git)">
+    <img src="https://github.com/user-attachments/assets/5abeceb7-4d71-4776-93c3-5f8ee159f57e" alt="Preview do Projeto 1" width="500">
+  </a>
+</p>
+
 
 **Tecnologias utilizadas:**
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square&logo=sql&logoColor=white)
